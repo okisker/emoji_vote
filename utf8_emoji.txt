@@ -1,3852 +1,704 @@
-Test101
-😁
-=F0=9F=98=81
-😂
-<p>=F0=9F=98=82</p>
-😃
-=F0=9F=98=83
-😄
-=F0=9F=98=84
-😅
-=F0=9F=98=85
-😆
-=F0=9F=98=86
-😉
-=F0=9F=98=89
-😊
-=F0=9F=98=8A
-😋
-=F0=9F=98=8B
-😌
-=F0=9F=98=8C
-😍
-=F0=9F=98=8D
-😏
-=F0=9F=98=8F
-😒
-=F0=9F=98=92
-😓
-=F0=9F=98=93
-😔
-=F0=9F=98=94
-😖
-=F0=9F=98=96
-😘
-=F0=9F=98=98face throwing a kiss
-😚
-=F0=9F=98=9Akissing face with closed eyes
-😜
-=F0=9F=98=9Cface with stuck-out tongue and winking eye
-😝
-=F0=9F=98=9Dface with stuck-out tongue and tightly-closed eyes
-😞
-=F0=9F=98=9Edisappointed face
-😠
-=F0=9F=98=A0angry face
-😡
-=F0=9F=98=A1pouting face
-😢
-=F0=9F=98=A2crying face
-😣
-=F0=9F=98=A3persevering face
-😤
-=F0=9F=98=A4face with look of triumph
-😥
-=F0=9F=98=A5disappointed but relieved face
-😨
-=F0=9F=98=A8fearful face
-😩
-=F0=9F=98=A9weary face
-😪
-=F0=9F=98=AAsleepy face
-😫
-=F0=9F=98=ABtired face
-😭
-=F0=9F=98=ADloudly crying face
-😰
-=F0=9F=98=B0face with open mouth and cold sweat
-😱
-=F0=9F=98=B1face screaming in fear
-😲
-=F0=9F=98=B2astonished face
-😳
-=F0=9F=98=B3flushed face
-😵
-=F0=9F=98=B5dizzy face
-😷
-=F0=9F=98=B7face with medical mask
-😸
-=F0=9F=98=B8grinning cat face with smiling eyes
-😹
-=F0=9F=98=B9cat face with tears of joy
-😺
-=F0=9F=98=BAsmiling cat face with open mouth
-😻
-=F0=9F=98=BBsmiling cat face with heart-shaped eyes
-😼
-=F0=9F=98=BCcat face with wry smile
-😽
-=F0=9F=98=BDkissing cat face with closed eyes
-😾
-=F0=9F=98=BEpouting cat face
-😿
-=F0=9F=98=BFcrying cat face
-🙀
-=F0=9F=99=80weary cat face
-🙅
-=F0=9F=99=85face with no good gesture
-🙆
-=F0=9F=99=86face with ok gesture
-🙇
-=F0=9F=99=87person bowing deeply
-🙈
-=F0=9F=99=88see-no-evil monkey
-🙉
-=F0=9F=99=89hear-no-evil monkey
-🙊
-=F0=9F=99=8Aspeak-no-evil monkey
-🙋
-=F0=9F=99=8Bhappy person raising one hand
-🙌
-=F0=9F=99=8Cperson raising both hands in celebration
-🙍
-=F0=9F=99=8Dperson frowning
-🙎
-=F0=9F=99=8Eperson with pouting face
-🙏
-=F0=9F=99=8Fperson with folded hands
-✂=E2=9C=82black scissors
-✅=E2=9C=85white heavy check mark
-✈=E2=9C=88airplane
-✉=E2=9C=89envelope
-✊=E2=9C=8Araised fist
-✋=E2=9C=8Braised hand
-✌=E2=9C=8Cvictory hand
-✏=E2=9C=8Fpencil
-✒=E2=9C=92black nib
-✔=E2=9C=94heavy check mark
-✖=E2=9C=96heavy multiplication =
-✨=E2=9C=A8sparkles
-✳=E2=9C=B3eight spoked asterisk
-✴=E2=9C=B4eight pointed black star
-❄=E2=9D=84snowflake
-❇=E2=9D=87sparkle
-❌=E2=9D=8Ccross mark
-❎=E2=9D=8Enegative squared cross mark
-❓=E2=9D=93black question mark ornament
-❔=E2=9D=94white question mark ornament
-❕=E2=9D=95white e=clamation mark ornament
-❗=E2=9D=97heavy e=clamation mark symbol
-❤=E2=9D=A4heavy black heart
-➕
-➕
-➕
- 
-U+2795=E2=9E=95heavy plus sign
-➖
-➖
-➖
- 
-U+2796=E2=9E=96heavy minus sign
-➗
-➗
-➗
- 
-U+2797=E2=9E=97heavy division sign
-➡
-➡
-➡
- 
-U+27A1=E2=9E=A1black rightwards arrow
-➰
-➰
-➰
- 
-U+27B0=E2=9E=B0curly loop
-Back to top 3. Transport and map symbols ( 1F680 - 1F6C0 )
-Native [1]Apple [2]Android [3]Android [3]Symbola [4]Twitter [5]Phantom [6]UnicodeBytes (UTF-8)Description
-🚀
-🚀
-🚀
- 
-U+1F680=F0=9F=9A=80rocket
-🚃
-🚃
-🚃
- 
-U+1F683=F0=9F=9A=83railway car
-🚄
-🚄
-🚄
- 
-U+1F684=F0=9F=9A=84high-speed train
-🚅
-🚅
-🚅
- 
-U+1F685=F0=9F=9A=85high-speed train with bullet nose
-🚇
-🚇
-🚇
- 
-U+1F687=F0=9F=9A=87metro
-🚉
-🚉
-🚉
- 
-U+1F689=F0=9F=9A=89station
-🚌
-🚌
-🚌
- 
-U+1F68C=F0=9F=9A=8Cbus
-🚏
-🚏
-🚏
-U+1F68F=F0=9F=9A=8Fbus stop
-🚑
-🚑
-🚑
- 
-U+1F691=F0=9F=9A=91ambulance
-🚒
-🚒
-🚒
- 
-U+1F692=F0=9F=9A=92fire engine
-🚓
-🚓
-🚓
- 
-U+1F693=F0=9F=9A=93police car
-🚕
-🚕
-🚕
- 
-U+1F695=F0=9F=9A=95ta=i
-🚗
-🚗
-🚗
-U+1F697=F0=9F=9A=97automobile
-🚙
-🚙
-🚙
-U+1F699=F0=9F=9A=99recreational vehicle
-🚚
-🚚
-🚚
- 
-U+1F69A=F0=9F=9A=9Adelivery truck
-🚢
-🚢
-🚢
-U+1F6A2=F0=9F=9A=A2ship
-🚤
-🚤
-🚤
- 
-U+1F6A4=F0=9F=9A=A4speedboat
-🚥
-🚥
-🚥
- 
-U+1F6A5=F0=9F=9A=A5horizontal traffic light
-🚧
-🚧
-🚧
- 
-U+1F6A7=F0=9F=9A=A7construction sign
-🚨
-🚨
-🚨
- 
-U+1F6A8=F0=9F=9A=A8police cars revolving light
-🚩
-🚩
-🚩
- 
-U+1F6A9=F0=9F=9A=A9triangular flag on post
-🚪
-🚪
-🚪
- 
-U+1F6AA=F0=9F=9A=AAdoor
-🚫
-🚫
-🚫
- 
-U+1F6AB=F0=9F=9A=ABno entry sign
-🚬
-🚬
-🚬
- 
-U+1F6AC=F0=9F=9A=ACsmoking symbol
-🚭
-🚭
-🚭
- 
-U+1F6AD=F0=9F=9A=ADno smoking symbol
-🚲
-🚲
-🚲
- 
-U+1F6B2=F0=9F=9A=B2bicycle
-🚶
-🚶
-🚶
- 
-U+1F6B6=F0=9F=9A=B6pedestrian
-🚹
-🚹
-🚹
-U+1F6B9=F0=9F=9A=B9mens symbol
-🚺
-🚺
-🚺
- 
-U+1F6BA=F0=9F=9A=BAwomens symbol
-🚻
-🚻
-🚻
- 
-U+1F6BB=F0=9F=9A=BBrestroom
-🚼
-🚼
-🚼
- 
-U+1F6BC=F0=9F=9A=BCbaby symbol
-🚽
-🚽
-🚽
- 
-U+1F6BD=F0=9F=9A=BDtoilet
-🚾
-🚾
-🚾
- 
-U+1F6BE=F0=9F=9A=BEwater closet
-🛀
-🛀
-🛀
- 
-U+1F6C0=F0=9F=9B=80bath
-Back to top 4. Enclosed characters ( 24C2 - 1F251 )
-Native [1]Apple [2]Android [3]Android [3]Symbola [4]Twitter [5]Phantom [6]UnicodeBytes (UTF-8)Description
-Ⓜ
-Ⓜ
-Ⓜ
- 
-U+24C2=E2=93=82circled latin capital letter m
-🅰
-🅰
-🅰
- 
-U+1F170=F0=9F=85=B0negative squared latin capital letter a
-🅱
-🅱
-🅱
- 
-U+1F171=F0=9F=85=B1negative squared latin capital letter b
-🅾
-🅾
-🅾
- 
-U+1F17E=F0=9F=85=BEnegative squared latin capital letter o
-🅿
-🅿
-🅿
- 
-U+1F17F=F0=9F=85=BFnegative squared latin capital letter p
-🆎
-🆎
-🆎
- 
-U+1F18E=F0=9F=86=8Enegative squared ab
-🆑
-🆑
-🆑
- 
-U+1F191=F0=9F=86=91squared cl
-🆒
-🆒
-🆒
- 
-U+1F192=F0=9F=86=92squared cool
-🆓
-🆓
-🆓
- 
-U+1F193=F0=9F=86=93squared free
-🆔
-🆔
-🆔
- 
-U+1F194=F0=9F=86=94squared id
-🆕
-🆕
-🆕
- 
-U+1F195=F0=9F=86=95squared new
-🆖
-🆖
-🆖
- 
-U+1F196=F0=9F=86=96squared ng
-🆗
-🆗
-🆗
- 
-U+1F197=F0=9F=86=97squared ok
-🆘
-🆘
-🆘
- 
-U+1F198=F0=9F=86=98squared sos
-🆙
-🆙
-🆙
- 
-U+1F199=F0=9F=86=99squared up with e=clamation mark
-🆚
-🆚
-🆚
- 
-U+1F19A=F0=9F=86=9Asquared vs
-🇩🇪
-🇩🇪
-🇩🇪
- 
-U+1F1E9 U+1F1EA=F0=9F=87=A9=F0=9F=87=AAregional indicator symbol letter d + regional indicator symbol letter e
-🇬🇧
-🇬🇧
-🇬🇧
- 
-U+1F1EC U+1F1E7=F0=9F=87=AC=F0=9F=87=A7regional indicator symbol letter g + regional indicator symbol letter b
-🇨🇳
-🇨🇳
-🇨🇳
- 
-U+1F1E8 U+1F1F3=F0=9F=87=A8=F0=9F=87=B3regional indicator symbol letter c + regional indicator symbol letter n
-🇯🇵
-🇯🇵
-🇯🇵
- 
-U+1F1EF U+1F1F5=F0=9F=87=AF=F0=9F=87=B5regional indicator symbol letter j + regional indicator symbol letter p
-🇰🇷
-🇰🇷
-🇰🇷
- 
-U+1F1F0 U+1F1F7=F0=9F=87=B0=F0=9F=87=B7regional indicator symbol letter k + regional indicator symbol letter r
-🇫🇷
-🇫🇷
-🇫🇷
- 
-U+1F1EB U+1F1F7=F0=9F=87=AB=F0=9F=87=B7regional indicator symbol letter f + regional indicator symbol letter r
-🇪🇸
-🇪🇸
-🇪🇸
- 
-U+1F1EA U+1F1F8=F0=9F=87=AA=F0=9F=87=B8regional indicator symbol letter e + regional indicator symbol letter s
-🇮🇹
-🇮🇹
-🇮🇹
- 
-U+1F1EE U+1F1F9=F0=9F=87=AE=F0=9F=87=B9regional indicator symbol letter i + regional indicator symbol letter t
-🇺🇸
-🇺🇸
-🇺🇸
- 
-U+1F1FA U+1F1F8=F0=9F=87=BA=F0=9F=87=B8regional indicator symbol letter u + regional indicator symbol letter s
-🇷🇺
-🇷🇺
-🇷🇺
- 
-U+1F1F7 U+1F1FA=F0=9F=87=B7=F0=9F=87=BAregional indicator symbol letter r + regional indicator symbol letter u
-🈁
-🈁
-🈁
- 
-U+1F201=F0=9F=88=81squared katakana koko
-🈂
-🈂
-🈂
- 
-U+1F202=F0=9F=88=82squared katakana sa
-🈚
-🈚
-🈚
- 
-U+1F21A=F0=9F=88=9Asquared cjk unified ideograph-7121
-🈯
-🈯
-🈯
- 
-U+1F22F=F0=9F=88=AFsquared cjk unified ideograph-6307
-🈲
-🈲
-🈲
- 
-U+1F232=F0=9F=88=B2squared cjk unified ideograph-7981
-🈳
-🈳
-🈳
- 
-U+1F233=F0=9F=88=B3squared cjk unified ideograph-7a7a
-🈴
-🈴
-🈴
- 
-U+1F234=F0=9F=88=B4squared cjk unified ideograph-5408
-🈵
-🈵
-🈵
- 
-U+1F235=F0=9F=88=B5squared cjk unified ideograph-6e80
-🈶
-🈶
-🈶
- 
-U+1F236=F0=9F=88=B6squared cjk unified ideograph-6709
-🈷
-🈷
-🈷
- 
-U+1F237=F0=9F=88=B7squared cjk unified ideograph-6708
-🈸
-🈸
-🈸
- 
-U+1F238=F0=9F=88=B8squared cjk unified ideograph-7533
-🈹
-🈹
-🈹
- 
-U+1F239=F0=9F=88=B9squared cjk unified ideograph-5272
-🈺
-🈺
-🈺
- 
-U+1F23A=F0=9F=88=BAsquared cjk unified ideograph-55b6
-🉐
-🉐
-🉐
- 
-U+1F250=F0=9F=89=90circled ideograph advantage
-🉑
-🉑
-🉑
- 
-U+1F251=F0=9F=89=91circled ideograph accept
-Back to top 5. Uncategorized
-Native [1]Apple [2]Android [3]Android [3]Symbola [4]Twitter [5]Phantom [6]UnicodeBytes (UTF-8)Description
-©
-©
-©
- 
-U+00A9=C2=A9copyright sign
-®
-®
-®
- 
-U+00AE=C2=AEregistered sign
-‼
-‼
-‼
- 
-U+203C=E2=80=BCdouble e=clamation mark
-⁉
-⁉
-⁉
- 
-U+2049=E2=81=89e=clamation question mark
-8⃣
-8⃣
-8⃣
- 
-U+0038 U+20E3=38=E2=83=A3digit eight + combining enclosing keycap
-9⃣
-9⃣
-9⃣
- 
-U+0039 U+20E3=39=E2=83=A3digit nine + combining enclosing keycap
-7⃣
-7⃣
-7⃣
- 
-U+0037 U+20E3=37=E2=83=A3digit seven + combining enclosing keycap
-6⃣
-6⃣
-6⃣
- 
-U+0036 U+20E3=36=E2=83=A3digit si= + combining enclosing keycap
-1⃣
-1⃣
-1⃣
- 
-U+0031 U+20E3=31=E2=83=A3digit one + combining enclosing keycap
-0⃣
-0⃣
-0⃣
- 
-U+0030 U+20E3=30=E2=83=A3digit zero + combining enclosing keycap
-2⃣
-2⃣
-2⃣
- 
-U+0032 U+20E3=32=E2=83=A3digit two + combining enclosing keycap
-3⃣
-3⃣
-3⃣
- 
-U+0033 U+20E3=33=E2=83=A3digit three + combining enclosing keycap
-5⃣
-5⃣
-5⃣
- 
-U+0035 U+20E3=35=E2=83=A3digit five + combining enclosing keycap
-4⃣
-4⃣
-4⃣
- 
-U+0034 U+20E3=34=E2=83=A3digit four + combining enclosing keycap
-#⃣
-#⃣
-#⃣
- 
-U+0023 U+20E3=23=E2=83=A3number sign + combining enclosing keycap
-™
-™
-™
- 
-U+2122=E2=84=A2trade mark sign
-ℹ
-ℹ
-ℹ
- 
-U+2139=E2=84=B9information source
-↔
-↔
-↔
- 
-U+2194=E2=86=94left right arrow
-↕
-↕
-↕
- 
-U+2195=E2=86=95up down arrow
-↖
-↖
-↖
- 
-U+2196=E2=86=96north west arrow
-↗
-↗
-↗
- 
-U+2197=E2=86=97north east arrow
-↘
-↘
-↘
- 
-U+2198=E2=86=98south east arrow
-↙
-↙
-↙
- 
-U+2199=E2=86=99south west arrow
-↩
-↩
-↩
- 
-U+21A9=E2=86=A9leftwards arrow with hook
-↪
-↪
-↪
- 
-U+21AA=E2=86=AArightwards arrow with hook
-⌚
-⌚
-⌚
- 
-U+231A=E2=8C=9Awatch
-⌛
-⌛
-⌛
- 
-U+231B=E2=8C=9Bhourglass
-⏩
-⏩
-⏩
- 
-U+23E9=E2=8F=A9black right-pointing double triangle
-⏪
-⏪
-⏪
- 
-U+23EA=E2=8F=AAblack left-pointing double triangle
-⏫
-⏫
-⏫
- 
-U+23EB=E2=8F=ABblack up-pointing double triangle
-⏬
-⏬
-⏬
- 
-U+23EC=E2=8F=ACblack down-pointing double triangle
-⏰
-⏰
-⏰
- 
-U+23F0=E2=8F=B0alarm clock
-⏳
-⏳
-⏳
- 
-U+23F3=E2=8F=B3hourglass with flowing sand
-▪
-▪
-▪
- 
-U+25AA=E2=96=AAblack small square
-▫
-▫
-▫
- 
-U+25AB=E2=96=ABwhite small square
-▶
-▶
-▶
- 
-U+25B6=E2=96=B6black right-pointing triangle
-◀
-◀
-◀
- 
-U+25C0=E2=97=80black left-pointing triangle
-◻
-◻
-◻
- 
-U+25FB=E2=97=BBwhite medium square
-◼
-◼
-◼
- 
-U+25FC=E2=97=BCblack medium square
-◽
-◽
-◽
- 
-U+25FD=E2=97=BDwhite medium small square
-◾
-◾
-◾
- 
-U+25FE=E2=97=BEblack medium small square
-☀
-☀
-☀
-U+2600=E2=98=80black sun with rays
-☁
-☁
-☁
-U+2601=E2=98=81cloud
-☎
-☎
-☎
- 
-U+260E=E2=98=8Eblack telephone
-☑
-☑
-☑
- 
-U+2611=E2=98=91ballot bo= with check
-☔
-☔
-☔
- 
-U+2614=E2=98=94umbrella with rain drops
-☕
-☕
-☕
-U+2615=E2=98=95hot beverage
-☝
-☝
-☝
- 
-U+261D=E2=98=9Dwhite up pointing inde=
-☺
-☺
-☺
-U+263A=E2=98=BAwhite smiling face
-♈
-♈
-♈
-U+2648=E2=99=88aries
-♉
-♉
-♉
-U+2649=E2=99=89taurus
-♊
-♊
-♊
-U+264A=E2=99=8Agemini
-♋
-♋
-♋
-U+264B=E2=99=8Bcancer
-♌
-♌
-♌
-U+264C=E2=99=8Cleo
-♍
-♍
-♍
-U+264D=E2=99=8Dvirgo
-♎
-♎
-♎
-U+264E=E2=99=8Elibra
-♏
-♏
-♏
-U+264F=E2=99=8Fscorpius
-♐
-♐
-♐
-U+2650=E2=99=90sagittarius
-♑
-♑
-♑
-U+2651=E2=99=91capricorn
-♒
-♒
-♒
-U+2652=E2=99=92aquarius
-♓
-♓
-♓
-U+2653=E2=99=93pisces
-♠
-♠
-♠
- 
-U+2660=E2=99=A0black spade suit
-♣
-♣
-♣
- 
-U+2663=E2=99=A3black club suit
-♥
-♥
-♥
- 
-U+2665=E2=99=A5black heart suit
-♦
-♦
-♦
- 
-U+2666=E2=99=A6black diamond suit
-♨
-♨
-♨
- 
-U+2668=E2=99=A8hot springs
-♻
-♻
-♻
- 
-U+267B=E2=99=BBblack universal recycling symbol
-♿
-♿
-♿
-U+267F=E2=99=BFwheelchair symbol
-⚓
-⚓
-⚓
-U+2693=E2=9A=93anchor
-⚠
-⚠
-⚠
- 
-U+26A0=E2=9A=A0warning sign
-⚡
-⚡
-⚡
-U+26A1=E2=9A=A1high voltage sign
-⚪
-⚪
-⚪
- 
-U+26AA=E2=9A=AAmedium white circle
-⚫
-⚫
-⚫
- 
-U+26AB=E2=9A=ABmedium black circle
-⚽
-⚽
-⚽
- 
-U+26BD=E2=9A=BDsoccer ball
-⚾
-⚾
-⚾
- 
-U+26BE=E2=9A=BEbaseball
-⛄
-⛄
-⛄
- 
-U+26C4=E2=9B=84snowman without snow
-⛅
-⛅
-⛅
- 
-U+26C5=E2=9B=85sun behind cloud
-⛎
-⛎
-⛎
- 
-U+26CE=E2=9B=8Eophiuchus
-⛔
-⛔
-⛔
- 
-U+26D4=E2=9B=94no entry
-⛪
-⛪
-⛪
- 
-U+26EA=E2=9B=AAchurch
-⛲
-⛲
-⛲
- 
-U+26F2=E2=9B=B2fountain
-⛳
-⛳
-⛳
- 
-U+26F3=E2=9B=B3flag in hole
-⛵
-⛵
-⛵
- 
-U+26F5=E2=9B=B5sailboat
-⛺
-⛺
-⛺
- 
-U+26FA=E2=9B=BAtent
-⛽
-⛽
-⛽
- 
-U+26FD=E2=9B=BDfuel pump
-⤴
-⤴
-⤴
- 
-U+2934=E2=A4=B4arrow pointing rightwards then curving upwards
-⤵
-⤵
-⤵
- 
-U+2935=E2=A4=B5arrow pointing rightwards then curving downwards
-⬅
-⬅
-⬅
- 
-U+2B05=E2=AC=85leftwards black arrow
-⬆
-⬆
-⬆
- 
-U+2B06=E2=AC=86upwards black arrow
-⬇
-⬇
-⬇
- 
-U+2B07=E2=AC=87downwards black arrow
-⬛
-⬛
-⬛
- 
-U+2B1B=E2=AC=9Bblack large square
-⬜
-⬜
-⬜
- 
-U+2B1C=E2=AC=9Cwhite large square
-⭐
-⭐
-⭐
- 
-U+2B50=E2=AD=90white medium star
-⭕
-⭕
-⭕
- 
-U+2B55=E2=AD=95heavy large circle
-〰
-〰
-〰
- 
-U+3030=E3=80=B0wavy dash
-〽
-〽
-〽
- 
-U+303D=E3=80=BDpart alternation mark
-㊗
-㊗
-㊗
- 
-U+3297=E3=8A=97circled ideograph congratulation
-㊙
-㊙
-㊙
-U+3299=E3=8A=99circled ideograph secret
-🀄
-🀄
-🀄
- 
-U+1F004=F0=9F=80=84mahjong tile red dragon
-🃏
-🃏
-🃏
- 
-U+1F0CF=F0=9F=83=8Fplaying card black joker
-🌀
-🌀
-🌀
-U+1F300=F0=9F=8C=80cyclone
-🌁
-🌁
-🌁
- 
-U+1F301=F0=9F=8C=81foggy
-🌂
-🌂
-🌂
- 
-U+1F302=F0=9F=8C=82closed umbrella
-🌃
-🌃
-🌃
- 
-U+1F303=F0=9F=8C=83night with stars
-🌄
-🌄
-🌄
- 
-U+1F304=F0=9F=8C=84sunrise over mountains
-🌅
-🌅
-🌅
- 
-U+1F305=F0=9F=8C=85sunrise
-🌆
-🌆
-🌆
- 
-U+1F306=F0=9F=8C=86cityscape at dusk
-🌇
-🌇
-🌇
- 
-U+1F307=F0=9F=8C=87sunset over buildings
-🌈
-🌈
-🌈
-U+1F308=F0=9F=8C=88rainbow
-🌉
-🌉
-🌉
- 
-U+1F309=F0=9F=8C=89bridge at night
-🌊
-🌊
-🌊
- 
-U+1F30A=F0=9F=8C=8Awater wave
-🌋
-🌋
-🌋
- 
-U+1F30B=F0=9F=8C=8Bvolcano
-🌌
-🌌
-🌌
-U+1F30C=F0=9F=8C=8Cmilky way
-🌏
-🌏
-🌏
- 
-U+1F30F=F0=9F=8C=8Fearth globe asia-australia
-🌑
-🌑
-🌑
-U+1F311=F0=9F=8C=91new moon symbol
-🌓
-🌓
-🌓
-U+1F313=F0=9F=8C=93first quarter moon symbol
-🌔
-🌔
-🌔
-U+1F314=F0=9F=8C=94wa=ing gibbous moon symbol
-🌕
-🌕
-🌕
-U+1F315=F0=9F=8C=95full moon symbol
-🌙
-🌙
-🌙
-U+1F319=F0=9F=8C=99crescent moon
-🌛
-🌛
-🌛
-U+1F31B=F0=9F=8C=9Bfirst quarter moon with face
-🌟
-🌟
-🌟
-U+1F31F=F0=9F=8C=9Fglowing star
-🌠
-🌠
-🌠
-U+1F320=F0=9F=8C=A0shooting star
-🌰
-🌰
-🌰
- 
-U+1F330=F0=9F=8C=B0chestnut
-🌱
-🌱
-🌱
- 
-U+1F331=F0=9F=8C=B1seedling
-🌴
-🌴
-🌴
- 
-U+1F334=F0=9F=8C=B4palm tree
-🌵
-🌵
-🌵
-U+1F335=F0=9F=8C=B5cactus
-🌷
-🌷
-🌷
- 
-U+1F337=F0=9F=8C=B7tulip
-🌸
-🌸
-🌸
- 
-U+1F338=F0=9F=8C=B8cherry blossom
-🌹
-🌹
-🌹
- 
-U+1F339=F0=9F=8C=B9rose
-🌺
-🌺
-🌺
- 
-U+1F33A=F0=9F=8C=BAhibiscus
-🌻
-🌻
-🌻
- 
-U+1F33B=F0=9F=8C=BBsunflower
-🌼
-🌼
-🌼
- 
-U+1F33C=F0=9F=8C=BCblossom
-🌽
-🌽
-🌽
- 
-U+1F33D=F0=9F=8C=BDear of maize
-🌾
-🌾
-🌾
- 
-U+1F33E=F0=9F=8C=BEear of rice
-🌿
-🌿
-🌿
- 
-U+1F33F=F0=9F=8C=BFherb
-🍀
-🍀
-🍀
- 
-U+1F340=F0=9F=8D=80four leaf clover
-🍁
-🍁
-🍁
- 
-U+1F341=F0=9F=8D=81maple leaf
-🍂
-🍂
-🍂
- 
-U+1F342=F0=9F=8D=82fallen leaf
-🍃
-🍃
-🍃
- 
-U+1F343=F0=9F=8D=83leaf fluttering in wind
-🍄
-🍄
-🍄
- 
-U+1F344=F0=9F=8D=84mushroom
-🍅
-🍅
-🍅
- 
-U+1F345=F0=9F=8D=85tomato
-🍆
-🍆
-🍆
- 
-U+1F346=F0=9F=8D=86aubergine
-🍇
-🍇
-🍇
- 
-U+1F347=F0=9F=8D=87grapes
-🍈
-🍈
-🍈
- 
-U+1F348=F0=9F=8D=88melon
-🍉
-🍉
-🍉
- 
-U+1F349=F0=9F=8D=89watermelon
-🍊
-🍊
-🍊
-U+1F34A=F0=9F=8D=8Atangerine
-🍌
-🍌
-🍌
- 
-U+1F34C=F0=9F=8D=8Cbanana
-🍍
-🍍
-🍍
- 
-U+1F34D=F0=9F=8D=8Dpineapple
-🍎
-🍎
-🍎
- 
-U+1F34E=F0=9F=8D=8Ered apple
-🍏
-🍏
-🍏
- 
-U+1F34F=F0=9F=8D=8Fgreen apple
-🍑
-🍑
-🍑
- 
-U+1F351=F0=9F=8D=91peach
-🍒
-🍒
-🍒
- 
-U+1F352=F0=9F=8D=92cherries
-🍓
-🍓
-🍓
- 
-U+1F353=F0=9F=8D=93strawberry
-🍔
-🍔
-🍔
-U+1F354=F0=9F=8D=94hamburger
-🍕
-🍕
-🍕
-U+1F355=F0=9F=8D=95slice of pizza
-🍖
-🍖
-🍖
- 
-U+1F356=F0=9F=8D=96meat on bone
-🍗
-🍗
-🍗
- 
-U+1F357=F0=9F=8D=97poultry leg
-🍘
-🍘
-🍘
- 
-U+1F358=F0=9F=8D=98rice cracker
-🍙
-🍙
-🍙
-U+1F359=F0=9F=8D=99rice ball
-🍚
-🍚
-🍚
- 
-U+1F35A=F0=9F=8D=9Acooked rice
-🍛
-🍛
-🍛
- 
-U+1F35B=F0=9F=8D=9Bcurry and rice
-🍜
-🍜
-🍜
- 
-U+1F35C=F0=9F=8D=9Csteaming bowl
-🍝
-🍝
-🍝
- 
-U+1F35D=F0=9F=8D=9Dspaghetti
-🍞
-🍞
-🍞
- 
-U+1F35E=F0=9F=8D=9Ebread
-🍟
-🍟
-🍟
- 
-U+1F35F=F0=9F=8D=9Ffrench fries
-🍠
-🍠
-🍠
- 
-U+1F360=F0=9F=8D=A0roasted sweet potato
-🍡
-🍡
-🍡
- 
-U+1F361=F0=9F=8D=A1dango
-🍢
-🍢
-🍢
- 
-U+1F362=F0=9F=8D=A2oden
-🍣
-🍣
-🍣
- 
-U+1F363=F0=9F=8D=A3sushi
-🍤
-🍤
-🍤
- 
-U+1F364=F0=9F=8D=A4fried shrimp
-🍥
-🍥
-🍥
-U+1F365=F0=9F=8D=A5fish cake with swirl design
-🍦
-🍦
-🍦
- 
-U+1F366=F0=9F=8D=A6soft ice cream
-🍧
-🍧
-🍧
- 
-U+1F367=F0=9F=8D=A7shaved ice
-🍨
-🍨
-🍨
- 
-U+1F368=F0=9F=8D=A8ice cream
-🍩
-🍩
-🍩
- 
-U+1F369=F0=9F=8D=A9doughnut
-🍪
-🍪
-🍪
- 
-U+1F36A=F0=9F=8D=AAcookie
-🍫
-🍫
-🍫
- 
-U+1F36B=F0=9F=8D=ABchocolate bar
-🍬
-🍬
-🍬
- 
-U+1F36C=F0=9F=8D=ACcandy
-🍭
-🍭
-🍭
- 
-U+1F36D=F0=9F=8D=ADlollipop
-🍮
-🍮
-🍮
- 
-U+1F36E=F0=9F=8D=AEcustard
-🍯
-🍯
-🍯
- 
-U+1F36F=F0=9F=8D=AFhoney pot
-🍰
-🍰
-🍰
-U+1F370=F0=9F=8D=B0shortcake
-🍱
-🍱
-🍱
-U+1F371=F0=9F=8D=B1bento bo=
-🍲
-🍲
-🍲
- 
-U+1F372=F0=9F=8D=B2pot of food
-🍳
-🍳
-🍳
- 
-U+1F373=F0=9F=8D=B3cooking
-🍴
-🍴
-🍴
- 
-U+1F374=F0=9F=8D=B4fork and knife
-🍵
-🍵
-🍵
- 
-U+1F375=F0=9F=8D=B5teacup without handle
-🍶
-🍶
-🍶
- 
-U+1F376=F0=9F=8D=B6sake bottle and cup
-🍷
-🍷
-🍷
- 
-U+1F377=F0=9F=8D=B7wine glass
-🍸
-🍸
-🍸
- 
-U+1F378=F0=9F=8D=B8cocktail glass
-🍹
-🍹
-🍹
-U+1F379=F0=9F=8D=B9tropical drink
-🍺
-🍺
-🍺
-U+1F37A=F0=9F=8D=BAbeer mug
-🍻
-🍻
-🍻
- 
-U+1F37B=F0=9F=8D=BBclinking beer mugs
-🎀
-🎀
-🎀
- 
-U+1F380=F0=9F=8E=80ribbon
-🎁
-🎁
-🎁
- 
-U+1F381=F0=9F=8E=81wrapped present
-🎂
-🎂
-🎂
- 
-U+1F382=F0=9F=8E=82birthday cake
-🎃
-🎃
-🎃
-U+1F383=F0=9F=8E=83jack-o-lantern
-🎄
-🎄
-🎄
- 
-U+1F384=F0=9F=8E=84christmas tree
-🎅
-🎅
-🎅
- 
-U+1F385=F0=9F=8E=85father christmas
-🎆
-🎆
-🎆
- 
-U+1F386=F0=9F=8E=86fireworks
-🎇
-🎇
-🎇
- 
-U+1F387=F0=9F=8E=87firework sparkler
-🎈
-🎈
-🎈
- 
-U+1F388=F0=9F=8E=88balloon
-🎉
-🎉
-🎉
- 
-U+1F389=F0=9F=8E=89party popper
-🎊
-🎊
-🎊
- 
-U+1F38A=F0=9F=8E=8Aconfetti ball
-🎋
-🎋
-🎋
- 
-U+1F38B=F0=9F=8E=8Btanabata tree
-🎌
-🎌
-🎌
- 
-U+1F38C=F0=9F=8E=8Ccrossed flags
-🎍
-🎍
-🎍
- 
-U+1F38D=F0=9F=8E=8Dpine decoration
-🎎
-🎎
-🎎
- 
-U+1F38E=F0=9F=8E=8Ejapanese dolls
-🎏
-🎏
-🎏
- 
-U+1F38F=F0=9F=8E=8Fcarp streamer
-🎐
-🎐
-🎐
- 
-U+1F390=F0=9F=8E=90wind chime
-🎑
-🎑
-🎑
- 
-U+1F391=F0=9F=8E=91moon viewing ceremony
-🎒
-🎒
-🎒
- 
-U+1F392=F0=9F=8E=92school satchel
-🎓
-🎓
-🎓
- 
-U+1F393=F0=9F=8E=93graduation cap
-🎠
-🎠
-🎠
- 
-U+1F3A0=F0=9F=8E=A0carousel horse
-🎡
-🎡
-🎡
- 
-U+1F3A1=F0=9F=8E=A1ferris wheel
-🎢
-🎢
-🎢
- 
-U+1F3A2=F0=9F=8E=A2roller coaster
-🎣
-🎣
-🎣
- 
-U+1F3A3=F0=9F=8E=A3fishing pole and fish
-🎤
-🎤
-🎤
-U+1F3A4=F0=9F=8E=A4microphone
-🎥
-🎥
-🎥
- 
-U+1F3A5=F0=9F=8E=A5movie camera
-🎦
-🎦
-🎦
- 
-U+1F3A6=F0=9F=8E=A6cinema
-🎧
-🎧
-🎧
- 
-U+1F3A7=F0=9F=8E=A7headphone
-🎨
-🎨
-🎨
- 
-U+1F3A8=F0=9F=8E=A8artist palette
-🎩
-🎩
-🎩
- 
-U+1F3A9=F0=9F=8E=A9top hat
-🎪
-🎪
-🎪
- 
-U+1F3AA=F0=9F=8E=AAcircus tent
-🎫
-🎫
-🎫
- 
-U+1F3AB=F0=9F=8E=ABticket
-🎬
-🎬
-🎬
- 
-U+1F3AC=F0=9F=8E=ACclapper board
-🎭
-🎭
-🎭
- 
-U+1F3AD=F0=9F=8E=ADperforming arts
-🎮
-🎮
-🎮
-U+1F3AE=F0=9F=8E=AEvideo game
-🎯
-🎯
-🎯
- 
-U+1F3AF=F0=9F=8E=AFdirect hit
-🎰
-🎰
-🎰
- 
-U+1F3B0=F0=9F=8E=B0slot machine
-🎱
-🎱
-🎱
- 
-U+1F3B1=F0=9F=8E=B1billiards
-🎲
-🎲
-🎲
- 
-U+1F3B2=F0=9F=8E=B2game die
-🎳
-🎳
-🎳
- 
-U+1F3B3=F0=9F=8E=B3bowling
-🎴
-🎴
-🎴
- 
-U+1F3B4=F0=9F=8E=B4flower playing cards
-🎵
-🎵
-🎵
- 
-U+1F3B5=F0=9F=8E=B5musical note
-🎶
-🎶
-🎶
- 
-U+1F3B6=F0=9F=8E=B6multiple musical notes
-🎷
-🎷
-🎷
- 
-U+1F3B7=F0=9F=8E=B7sa=ophone
-🎸
-🎸
-🎸
-U+1F3B8=F0=9F=8E=B8guitar
-🎹
-🎹
-🎹
- 
-U+1F3B9=F0=9F=8E=B9musical keyboard
-🎺
-🎺
-🎺
- 
-U+1F3BA=F0=9F=8E=BAtrumpet
-🎻
-🎻
-🎻
- 
-U+1F3BB=F0=9F=8E=BBviolin
-🎼
-🎼
-🎼
- 
-U+1F3BC=F0=9F=8E=BCmusical score
-🎽
-🎽
-🎽
- 
-U+1F3BD=F0=9F=8E=BDrunning shirt with sash
-🎾
-🎾
-🎾
-U+1F3BE=F0=9F=8E=BEtennis racquet and ball
-🎿
-🎿
-🎿
- 
-U+1F3BF=F0=9F=8E=BFski and ski boot
-🏀
-🏀
-🏀
- 
-U+1F3C0=F0=9F=8F=80basketball and hoop
-🏁
-🏁
-🏁
- 
-U+1F3C1=F0=9F=8F=81chequered flag
-🏂
-🏂
-🏂
-U+1F3C2=F0=9F=8F=82snowboarder
-🏃
-🏃
-🏃
- 
-U+1F3C3=F0=9F=8F=83runner
-🏄
-🏄
-🏄
- 
-U+1F3C4=F0=9F=8F=84surfer
-🏆
-🏆
-🏆
- 
-U+1F3C6=F0=9F=8F=86trophy
-🏈
-🏈
-🏈
- 
-U+1F3C8=F0=9F=8F=88american football
-🏊
-🏊
-🏊
- 
-U+1F3CA=F0=9F=8F=8Aswimmer
-🏠
-🏠
-🏠
- 
-U+1F3E0=F0=9F=8F=A0house building
-🏡
-🏡
-🏡
- 
-U+1F3E1=F0=9F=8F=A1house with garden
-🏢
-🏢
-🏢
- 
-U+1F3E2=F0=9F=8F=A2office building
-🏣
-🏣
-🏣
- 
-U+1F3E3=F0=9F=8F=A3japanese post office
-🏥
-🏥
-🏥
- 
-U+1F3E5=F0=9F=8F=A5hospital
-🏦
-🏦
-🏦
- 
-U+1F3E6=F0=9F=8F=A6bank
-🏧
-🏧
-🏧
- 
-U+1F3E7=F0=9F=8F=A7automated teller machine
-🏨
-🏨
-🏨
- 
-U+1F3E8=F0=9F=8F=A8hotel
-🏩
-🏩
-🏩
-U+1F3E9=F0=9F=8F=A9love hotel
-🏪
-🏪
-🏪
- 
-U+1F3EA=F0=9F=8F=AAconvenience store
-🏫
-🏫
-🏫
- 
-U+1F3EB=F0=9F=8F=ABschool
-🏬
-🏬
-🏬
- 
-U+1F3EC=F0=9F=8F=ACdepartment store
-🏭
-🏭
-🏭
- 
-U+1F3ED=F0=9F=8F=ADfactory
-🏮
-🏮
-🏮
- 
-U+1F3EE=F0=9F=8F=AEizakaya lantern
-🏯
-🏯
-🏯
- 
-U+1F3EF=F0=9F=8F=AFjapanese castle
-🏰
-🏰
-🏰
- 
-U+1F3F0=F0=9F=8F=B0european castle
-🐌
-🐌
-🐌
-U+1F40C=F0=9F=90=8Csnail
-🐍
-🐍
-🐍
-U+1F40D=F0=9F=90=8Dsnake
-🐎
-🐎
-🐎
- 
-U+1F40E=F0=9F=90=8Ehorse
-🐑
-🐑
-🐑
- 
-U+1F411=F0=9F=90=91sheep
-🐒
-🐒
-🐒
- 
-U+1F412=F0=9F=90=92monkey
-🐔
-🐔
-🐔
-U+1F414=F0=9F=90=94chicken
-🐗
-🐗
-🐗
-U+1F417=F0=9F=90=97boar
-🐘
-🐘
-🐘
-U+1F418=F0=9F=90=98elephant
-🐙
-🐙
-🐙
-U+1F419=F0=9F=90=99octopus
-🐚
-🐚
-🐚
- 
-U+1F41A=F0=9F=90=9Aspiral shell
-🐛
-🐛
-🐛
- 
-U+1F41B=F0=9F=90=9Bbug
-🐜
-🐜
-🐜
- 
-U+1F41C=F0=9F=90=9Cant
-🐝
-🐝
-🐝
- 
-U+1F41D=F0=9F=90=9Dhoneybee
-🐞
-🐞
-🐞
- 
-U+1F41E=F0=9F=90=9Elady beetle
-🐟
-🐟
-🐟
- 
-U+1F41F=F0=9F=90=9Ffish
-🐠
-🐠
-🐠
- 
-U+1F420=F0=9F=90=A0tropical fish
-🐡
-🐡
-🐡
-U+1F421=F0=9F=90=A1blowfish
-🐢
-🐢
-🐢
- 
-U+1F422=F0=9F=90=A2turtle
-🐣
-🐣
-🐣
-U+1F423=F0=9F=90=A3hatching chick
-🐤
-🐤
-🐤
- 
-U+1F424=F0=9F=90=A4baby chick
-🐥
-🐥
-🐥
- 
-U+1F425=F0=9F=90=A5front-facing baby chick
-🐦
-🐦
-🐦
- 
-U+1F426=F0=9F=90=A6bird
-🐧
-🐧
-🐧
-U+1F427=F0=9F=90=A7penguin
-🐨
-🐨
-🐨
-U+1F428=F0=9F=90=A8koala
-🐩
-🐩
-🐩
- 
-U+1F429=F0=9F=90=A9poodle
-🐫
-🐫
-🐫
-U+1F42B=F0=9F=90=ABbactrian camel
-🐬
-🐬
-🐬
- 
-U+1F42C=F0=9F=90=ACdolphin
-🐭
-🐭
-🐭
- 
-U+1F42D=F0=9F=90=ADmouse face
-🐮
-🐮
-🐮
- 
-U+1F42E=F0=9F=90=AEcow face
-🐯
-🐯
-🐯
- 
-U+1F42F=F0=9F=90=AFtiger face
-🐰
-🐰
-🐰
- 
-U+1F430=F0=9F=90=B0rabbit face
-🐱
-🐱
-🐱
-U+1F431=F0=9F=90=B1cat face
-🐲
-🐲
-🐲
- 
-U+1F432=F0=9F=90=B2dragon face
-🐳
-🐳
-🐳
-U+1F433=F0=9F=90=B3spouting whale
-🐴
-🐴
-🐴
-U+1F434=F0=9F=90=B4horse face
-🐵
-🐵
-🐵
- 
-U+1F435=F0=9F=90=B5monkey face
-🐶
-🐶
-🐶
-U+1F436=F0=9F=90=B6dog face
-🐷
-🐷
-🐷
- 
-U+1F437=F0=9F=90=B7pig face
-🐸
-🐸
-🐸
-U+1F438=F0=9F=90=B8frog face
-🐹
-🐹
-🐹
- 
-U+1F439=F0=9F=90=B9hamster face
-🐺
-🐺
-🐺
-U+1F43A=F0=9F=90=BAwolf face
-🐻
-🐻
-🐻
- 
-U+1F43B=F0=9F=90=BBbear face
-🐼
-🐼
-🐼
- 
-U+1F43C=F0=9F=90=BCpanda face
-🐽
-🐽
-🐽
- 
-U+1F43D=F0=9F=90=BDpig nose
-🐾
-🐾
-🐾
-U+1F43E=F0=9F=90=BEpaw prints
-👀
-👀
-👀
- 
-U+1F440=F0=9F=91=80eyes
-👂
-👂
-👂
- 
-U+1F442=F0=9F=91=82ear
-👃
-👃
-👃
- 
-U+1F443=F0=9F=91=83nose
-👄
-👄
-👄
- 
-U+1F444=F0=9F=91=84mouth
-👅
-👅
-👅
- 
-U+1F445=F0=9F=91=85tongue
-👆
-👆
-👆
- 
-U+1F446=F0=9F=91=86white up pointing backhand inde=
-👇
-👇
-👇
- 
-U+1F447=F0=9F=91=87white down pointing backhand inde=
-👈
-👈
-👈
- 
-U+1F448=F0=9F=91=88white left pointing backhand inde=
-👉
-👉
-👉
- 
-U+1F449=F0=9F=91=89white right pointing backhand inde=
-👊
-👊
-👊
-U+1F44A=F0=9F=91=8Afisted hand sign
-👋
-👋
-👋
- 
-U+1F44B=F0=9F=91=8Bwaving hand sign
-👌
-👌
-👌
- 
-U+1F44C=F0=9F=91=8Cok hand sign
-👍
-👍
-👍
-U+1F44D=F0=9F=91=8Dthumbs up sign
-👎
-👎
-👎
- 
-U+1F44E=F0=9F=91=8Ethumbs down sign
-👏
-👏
-👏
- 
-U+1F44F=F0=9F=91=8Fclapping hands sign
-👐
-👐
-👐
- 
-U+1F450=F0=9F=91=90open hands sign
-👑
-👑
-👑
- 
-U+1F451=F0=9F=91=91crown
-👒
-👒
-👒
- 
-U+1F452=F0=9F=91=92womans hat
-👓
-👓
-👓
- 
-U+1F453=F0=9F=91=93eyeglasses
-👔
-👔
-👔
- 
-U+1F454=F0=9F=91=94necktie
-👕
-👕
-👕
- 
-U+1F455=F0=9F=91=95t-shirt
-👖
-👖
-👖
- 
-U+1F456=F0=9F=91=96jeans
-👗
-👗
-👗
- 
-U+1F457=F0=9F=91=97dress
-👘
-👘
-👘
- 
-U+1F458=F0=9F=91=98kimono
-👙
-👙
-👙
- 
-U+1F459=F0=9F=91=99bikini
-👚
-👚
-👚
- 
-U+1F45A=F0=9F=91=9Awomans clothes
-👛
-👛
-👛
- 
-U+1F45B=F0=9F=91=9Bpurse
-👜
-👜
-👜
- 
-U+1F45C=F0=9F=91=9Chandbag
-👝
-👝
-👝
- 
-U+1F45D=F0=9F=91=9Dpouch
-👞
-👞
-👞
- 
-U+1F45E=F0=9F=91=9Emans shoe
-👟
-👟
-👟
- 
-U+1F45F=F0=9F=91=9Fathletic shoe
-👠
-👠
-👠
- 
-U+1F460=F0=9F=91=A0high-heeled shoe
-👡
-👡
-👡
- 
-U+1F461=F0=9F=91=A1womans sandal
-👢
-👢
-👢
- 
-U+1F462=F0=9F=91=A2womans boots
-👣
-👣
-👣
- 
-U+1F463=F0=9F=91=A3footprints
-👤
-👤
-👤
- 
-U+1F464=F0=9F=91=A4bust in silhouette
-👦
-👦
-👦
- 
-U+1F466=F0=9F=91=A6boy
-👧
-👧
-👧
- 
-U+1F467=F0=9F=91=A7girl
-👨
-👨
-👨
- 
-U+1F468=F0=9F=91=A8man
-👩
-👩
-👩
- 
-U+1F469=F0=9F=91=A9woman
-👪
-👪
-👪
-U+1F46A=F0=9F=91=AAfamily
-👫
-👫
-👫
-U+1F46B=F0=9F=91=ABman and woman holding hands
-👮
-👮
-👮
- 
-U+1F46E=F0=9F=91=AEpolice officer
-👯
-👯
-👯
- 
-U+1F46F=F0=9F=91=AFwoman with bunny ears
-👰
-👰
-👰
- 
-U+1F470=F0=9F=91=B0bride with veil
-👱
-👱
-👱
- 
-U+1F471=F0=9F=91=B1person with blond hair
-👲
-👲
-👲
- 
-U+1F472=F0=9F=91=B2man with gua pi mao
-👳
-👳
-👳
- 
-U+1F473=F0=9F=91=B3man with turban
-👴
-👴
-👴
- 
-U+1F474=F0=9F=91=B4older man
-👵
-👵
-👵
- 
-U+1F475=F0=9F=91=B5older woman
-👶
-👶
-👶
- 
-U+1F476=F0=9F=91=B6baby
-👷
-👷
-👷
- 
-U+1F477=F0=9F=91=B7construction worker
-👸
-👸
-👸
-U+1F478=F0=9F=91=B8princess
-👹
-👹
-👹
- 
-U+1F479=F0=9F=91=B9japanese ogre
-👺
-👺
-👺
- 
-U+1F47A=F0=9F=91=BAjapanese goblin
-👻
-👻
-👻
-U+1F47B=F0=9F=91=BBghost
-👼
-👼
-👼
- 
-U+1F47C=F0=9F=91=BCbaby angel
-👽
-👽
-👽
-U+1F47D=F0=9F=91=BDe=traterrestrial alien
-👾
-👾
-👾
- 
-U+1F47E=F0=9F=91=BEalien monster
-👿
-👿
-👿
- 
-U+1F47F=F0=9F=91=BFimp
-💀
-💀
-💀
-U+1F480=F0=9F=92=80skull
-💁
-💁
-💁
- 
-U+1F481=F0=9F=92=81information desk person
-💂
-💂
-💂
- 
-U+1F482=F0=9F=92=82guardsman
-💃
-💃
-💃
-U+1F483=F0=9F=92=83dancer
-💄
-💄
-💄
- 
-U+1F484=F0=9F=92=84lipstick
-💅
-💅
-💅
- 
-U+1F485=F0=9F=92=85nail polish
-💆
-💆
-💆
- 
-U+1F486=F0=9F=92=86face massage
-💇
-💇
-💇
- 
-U+1F487=F0=9F=92=87haircut
-💈
-💈
-💈
- 
-U+1F488=F0=9F=92=88barber pole
-💉
-💉
-💉
- 
-U+1F489=F0=9F=92=89syringe
-💊
-💊
-💊
-U+1F48A=F0=9F=92=8Apill
-💋
-💋
-💋
- 
-U+1F48B=F0=9F=92=8Bkiss mark
-💌
-💌
-💌
- 
-U+1F48C=F0=9F=92=8Clove letter
-💍
-💍
-💍
- 
-U+1F48D=F0=9F=92=8Dring
-💎
-💎
-💎
- 
-U+1F48E=F0=9F=92=8Egem stone
-💏
-💏
-💏
-U+1F48F=F0=9F=92=8Fkiss
-💐
-💐
-💐
- 
-U+1F490=F0=9F=92=90bouquet
-💑
-💑
-💑
-U+1F491=F0=9F=92=91couple with heart
-💒
-💒
-💒
- 
-U+1F492=F0=9F=92=92wedding
-💓
-💓
-💓
-U+1F493=F0=9F=92=93beating heart
-💔
-💔
-💔
- 
-U+1F494=F0=9F=92=94broken heart
-💕
-💕
-💕
- 
-U+1F495=F0=9F=92=95two hearts
-💖
-💖
-💖
- 
-U+1F496=F0=9F=92=96sparkling heart
-💗
-💗
-💗
- 
-U+1F497=F0=9F=92=97growing heart
-💘
-💘
-💘
- 
-U+1F498=F0=9F=92=98heart with arrow
-💙
-💙
-💙
- 
-U+1F499=F0=9F=92=99blue heart
-💚
-💚
-💚
- 
-U+1F49A=F0=9F=92=9Agreen heart
-💛
-💛
-💛
- 
-U+1F49B=F0=9F=92=9Byellow heart
-💜
-💜
-💜
- 
-U+1F49C=F0=9F=92=9Cpurple heart
-💝
-💝
-💝
- 
-U+1F49D=F0=9F=92=9Dheart with ribbon
-💞
-💞
-💞
- 
-U+1F49E=F0=9F=92=9Erevolving hearts
-💟
-💟
-💟
- 
-U+1F49F=F0=9F=92=9Fheart decoration
-💠
-💠
-💠
- 
-U+1F4A0=F0=9F=92=A0diamond shape with a dot inside
-💡
-💡
-💡
- 
-U+1F4A1=F0=9F=92=A1electric light bulb
-💢
-💢
-💢
- 
-U+1F4A2=F0=9F=92=A2anger symbol
-💣
-💣
-💣
- 
-U+1F4A3=F0=9F=92=A3bomb
-💤
-💤
-💤
- 
-U+1F4A4=F0=9F=92=A4sleeping symbol
-💥
-💥
-💥
- 
-U+1F4A5=F0=9F=92=A5collision symbol
-💦
-💦
-💦
- 
-U+1F4A6=F0=9F=92=A6splashing sweat symbol
-💧
-💧
-💧
- 
-U+1F4A7=F0=9F=92=A7droplet
-💨
-💨
-💨
- 
-U+1F4A8=F0=9F=92=A8dash symbol
-💩
-💩
-💩
-U+1F4A9=F0=9F=92=A9pile of poo
-💪
-💪
-💪
- 
-U+1F4AA=F0=9F=92=AAfle=ed biceps
-💫
-💫
-💫
- 
-U+1F4AB=F0=9F=92=ABdizzy symbol
-💬
-💬
-💬
-U+1F4AC=F0=9F=92=ACspeech balloon
-💮
-💮
-💮
- 
-U+1F4AE=F0=9F=92=AEwhite flower
-💯
-💯
-💯
- 
-U+1F4AF=F0=9F=92=AFhundred points symbol
-💰
-💰
-💰
- 
-U+1F4B0=F0=9F=92=B0money bag
-💱
-💱
-💱
- 
-U+1F4B1=F0=9F=92=B1currency e=change
-💲
-💲
-💲
- 
-U+1F4B2=F0=9F=92=B2heavy dollar sign
-💳
-💳
-💳
- 
-U+1F4B3=F0=9F=92=B3credit card
-💴
-💴
-💴
- 
-U+1F4B4=F0=9F=92=B4banknote with yen sign
-💵
-💵
-💵
- 
-U+1F4B5=F0=9F=92=B5banknote with dollar sign
-💸
-💸
-💸
- 
-U+1F4B8=F0=9F=92=B8money with wings
-💹
-💹
-💹
- 
-U+1F4B9=F0=9F=92=B9chart with upwards trend and yen sign
-💺
-💺
-💺
- 
-U+1F4BA=F0=9F=92=BAseat
-💻
-💻
-💻
- 
-U+1F4BB=F0=9F=92=BBpersonal computer
-💼
-💼
-💼
- 
-U+1F4BC=F0=9F=92=BCbriefcase
-💽
-💽
-💽
- 
-U+1F4BD=F0=9F=92=BDminidisc
-💾
-💾
-💾
- 
-U+1F4BE=F0=9F=92=BEfloppy disk
-💿
-💿
-💿
- 
-U+1F4BF=F0=9F=92=BFoptical disc
-📀
-📀
-📀
- 
-U+1F4C0=F0=9F=93=80dvd
-📁
-📁
-📁
- 
-U+1F4C1=F0=9F=93=81file folder
-📂
-📂
-📂
- 
-U+1F4C2=F0=9F=93=82open file folder
-📃
-📃
-📃
- 
-U+1F4C3=F0=9F=93=83page with curl
-📄
-📄
-📄
- 
-U+1F4C4=F0=9F=93=84page facing up
-📅
-📅
-📅
- 
-U+1F4C5=F0=9F=93=85calendar
-📆
-📆
-📆
- 
-U+1F4C6=F0=9F=93=86tear-off calendar
-📇
-📇
-📇
- 
-U+1F4C7=F0=9F=93=87card inde=
-📈
-📈
-📈
- 
-U+1F4C8=F0=9F=93=88chart with upwards trend
-📉
-📉
-📉
- 
-U+1F4C9=F0=9F=93=89chart with downwards trend
-📊
-📊
-📊
- 
-U+1F4CA=F0=9F=93=8Abar chart
-📋
-📋
-📋
- 
-U+1F4CB=F0=9F=93=8Bclipboard
-📌
-📌
-📌
- 
-U+1F4CC=F0=9F=93=8Cpushpin
-📍
-📍
-📍
- 
-U+1F4CD=F0=9F=93=8Dround pushpin
-📎
-📎
-📎
- 
-U+1F4CE=F0=9F=93=8Epaperclip
-📏
-📏
-📏
- 
-U+1F4CF=F0=9F=93=8Fstraight ruler
-📐
-📐
-📐
- 
-U+1F4D0=F0=9F=93=90triangular ruler
-📑
-📑
-📑
- 
-U+1F4D1=F0=9F=93=91bookmark tabs
-📒
-📒
-📒
- 
-U+1F4D2=F0=9F=93=92ledger
-📓
-📓
-📓
- 
-U+1F4D3=F0=9F=93=93notebook
-📔
-📔
-📔
- 
-U+1F4D4=F0=9F=93=94notebook with decorative cover
-📕
-📕
-📕
- 
-U+1F4D5=F0=9F=93=95closed book
-📖
-📖
-📖
- 
-U+1F4D6=F0=9F=93=96open book
-📗
-📗
-📗
- 
-U+1F4D7=F0=9F=93=97green book
-📘
-📘
-📘
- 
-U+1F4D8=F0=9F=93=98blue book
-📙
-📙
-📙
- 
-U+1F4D9=F0=9F=93=99orange book
-📚
-📚
-📚
- 
-U+1F4DA=F0=9F=93=9Abooks
-📛
-📛
-📛
- 
-U+1F4DB=F0=9F=93=9Bname badge
-📜
-📜
-📜
- 
-U+1F4DC=F0=9F=93=9Cscroll
-📝
-📝
-📝
- 
-U+1F4DD=F0=9F=93=9Dmemo
-📞
-📞
-📞
- 
-U+1F4DE=F0=9F=93=9Etelephone receiver
-📟
-📟
-📟
- 
-U+1F4DF=F0=9F=93=9Fpager
-📠
-📠
-📠
- 
-U+1F4E0=F0=9F=93=A0fa= machine
-📡
-📡
-📡
- 
-U+1F4E1=F0=9F=93=A1satellite antenna
-📢
-📢
-📢
- 
-U+1F4E2=F0=9F=93=A2public address loudspeaker
-📣
-📣
-📣
- 
-U+1F4E3=F0=9F=93=A3cheering megaphone
-📤
-📤
-📤
- 
-U+1F4E4=F0=9F=93=A4outbo= tray
-📥
-📥
-📥
- 
-U+1F4E5=F0=9F=93=A5inbo= tray
-📦
-📦
-📦
- 
-U+1F4E6=F0=9F=93=A6package
-📧
-📧
-📧
- 
-U+1F4E7=F0=9F=93=A7e-mail symbol
-📨
-📨
-📨
- 
-U+1F4E8=F0=9F=93=A8incoming envelope
-📩
-📩
-📩
- 
-U+1F4E9=F0=9F=93=A9envelope with downwards arrow above
-📪
-📪
-📪
- 
-U+1F4EA=F0=9F=93=AAclosed mailbo= with lowered flag
-📫
-📫
-📫
- 
-U+1F4EB=F0=9F=93=ABclosed mailbo= with raised flag
-📮
-📮
-📮
- 
-U+1F4EE=F0=9F=93=AEpostbo=
-📰
-📰
-📰
- 
-U+1F4F0=F0=9F=93=B0newspaper
-📱
-📱
-📱
- 
-U+1F4F1=F0=9F=93=B1mobile phone
-📲
-📲
-📲
- 
-U+1F4F2=F0=9F=93=B2mobile phone with rightwards arrow at left
-📳
-📳
-📳
- 
-U+1F4F3=F0=9F=93=B3vibration mode
-📴
-📴
-📴
- 
-U+1F4F4=F0=9F=93=B4mobile phone off
-📶
-📶
-📶
- 
-U+1F4F6=F0=9F=93=B6antenna with bars
-📷
-📷
-📷
- 
-U+1F4F7=F0=9F=93=B7camera
-📹
-📹
-📹
- 
-U+1F4F9=F0=9F=93=B9video camera
-📺
-📺
-📺
- 
-U+1F4FA=F0=9F=93=BAtelevision
-📻
-📻
-📻
- 
-U+1F4FB=F0=9F=93=BBradio
-📼
-📼
-📼
- 
-U+1F4FC=F0=9F=93=BCvideocassette
-🔃
-🔃
-🔃
- 
-U+1F503=F0=9F=94=83clockwise downwards and upwards open circle arrows
-🔊
-🔊
-🔊
- 
-U+1F50A=F0=9F=94=8Aspeaker with three sound waves
-🔋
-🔋
-🔋
- 
-U+1F50B=F0=9F=94=8Bbattery
-🔌
-🔌
-🔌
- 
-U+1F50C=F0=9F=94=8Celectric plug
-🔍
-🔍
-🔍
- 
-U+1F50D=F0=9F=94=8Dleft-pointing magnifying glass
-🔎
-🔎
-🔎
- 
-U+1F50E=F0=9F=94=8Eright-pointing magnifying glass
-🔏
-🔏
-🔏
- 
-U+1F50F=F0=9F=94=8Flock with ink pen
-🔐
-🔐
-🔐
- 
-U+1F510=F0=9F=94=90closed lock with key
-🔑
-🔑
-🔑
- 
-U+1F511=F0=9F=94=91key
-🔒
-🔒
-🔒
- 
-U+1F512=F0=9F=94=92lock
-🔓
-🔓
-🔓
- 
-U+1F513=F0=9F=94=93open lock
-🔔
-🔔
-🔔
- 
-U+1F514=F0=9F=94=94bell
-🔖
-🔖
-🔖
- 
-U+1F516=F0=9F=94=96bookmark
-🔗
-🔗
-🔗
- 
-U+1F517=F0=9F=94=97link symbol
-🔘
-🔘
-🔘
- 
-U+1F518=F0=9F=94=98radio button
-🔙
-🔙
-🔙
- 
-U+1F519=F0=9F=94=99back with leftwards arrow above
-🔚
-🔚
-🔚
- 
-U+1F51A=F0=9F=94=9Aend with leftwards arrow above
-🔛
-🔛
-🔛
- 
-U+1F51B=F0=9F=94=9Bon with e=clamation mark with left right arrow above
-🔜
-🔜
-🔜
- 
-U+1F51C=F0=9F=94=9Csoon with rightwards arrow above
-🔝
-🔝
-🔝
- 
-U+1F51D=F0=9F=94=9Dtop with upwards arrow above
-🔞
-🔞
-🔞
-U+1F51E=F0=9F=94=9Eno one under eighteen symbol
-🔟
-🔟
-🔟
- 
-U+1F51F=F0=9F=94=9Fkeycap ten
-🔠
-🔠
-🔠
- 
-U+1F520=F0=9F=94=A0input symbol for latin capital letters
-🔡
-🔡
-🔡
- 
-U+1F521=F0=9F=94=A1input symbol for latin small letters
-🔢
-🔢
-🔢
- 
-U+1F522=F0=9F=94=A2input symbol for numbers
-🔣
-🔣
-🔣
- 
-U+1F523=F0=9F=94=A3input symbol for symbols
-🔤
-🔤
-🔤
- 
-U+1F524=F0=9F=94=A4input symbol for latin letters
-🔥
-🔥
-🔥
- 
-U+1F525=F0=9F=94=A5fire
-🔦
-🔦
-🔦
- 
-U+1F526=F0=9F=94=A6electric torch
-🔧
-🔧
-🔧
- 
-U+1F527=F0=9F=94=A7wrench
-🔨
-🔨
-🔨
- 
-U+1F528=F0=9F=94=A8hammer
-🔩
-🔩
-🔩
- 
-U+1F529=F0=9F=94=A9nut and bolt
-🔪
-🔪
-🔪
- 
-U+1F52A=F0=9F=94=AAhocho
-🔫
-🔫
-🔫
-U+1F52B=F0=9F=94=ABpistol
-🔮
-🔮
-🔮
- 
-U+1F52E=F0=9F=94=AEcrystal ball
-🔯
-🔯
-🔯
- 
-U+1F52F=F0=9F=94=AFsi= pointed star with middle dot
-🔰
-🔰
-🔰
- 
-U+1F530=F0=9F=94=B0japanese symbol for beginner
-🔱
-🔱
-🔱
- 
-U+1F531=F0=9F=94=B1trident emblem
-🔲
-🔲
-🔲
- 
-U+1F532=F0=9F=94=B2black square button
-🔳
-🔳
-🔳
- 
-U+1F533=F0=9F=94=B3white square button
-🔴
-🔴
-🔴
- 
-U+1F534=F0=9F=94=B4large red circle
-🔵
-🔵
-🔵
- 
-U+1F535=F0=9F=94=B5large blue circle
-🔶
-🔶
-🔶
- 
-U+1F536=F0=9F=94=B6large orange diamond
-🔷
-🔷
-🔷
- 
-U+1F537=F0=9F=94=B7large blue diamond
-🔸
-🔸
-🔸
- 
-U+1F538=F0=9F=94=B8small orange diamond
-🔹
-🔹
-🔹
- 
-U+1F539=F0=9F=94=B9small blue diamond
-🔺
-🔺
-🔺
- 
-U+1F53A=F0=9F=94=BAup-pointing red triangle
-🔻
-🔻
-🔻
- 
-U+1F53B=F0=9F=94=BBdown-pointing red triangle
-🔼
-🔼
-🔼
- 
-U+1F53C=F0=9F=94=BCup-pointing small red triangle
-🔽
-🔽
-🔽
- 
-U+1F53D=F0=9F=94=BDdown-pointing small red triangle
-🕐
-🕐
-🕐
- 
-U+1F550=F0=9F=95=90clock face one oclock
-🕑
-🕑
-🕑
- 
-U+1F551=F0=9F=95=91clock face two oclock
-🕒
-🕒
-🕒
- 
-U+1F552=F0=9F=95=92clock face three oclock
-🕓
-🕓
-🕓
- 
-U+1F553=F0=9F=95=93clock face four oclock
-🕔
-🕔
-🕔
- 
-U+1F554=F0=9F=95=94clock face five oclock
-🕕
-🕕
-🕕
- 
-U+1F555=F0=9F=95=95clock face si= oclock
-🕖
-🕖
-🕖
- 
-U+1F556=F0=9F=95=96clock face seven oclock
-🕗
-🕗
-🕗
- 
-U+1F557=F0=9F=95=97clock face eight oclock
-🕘
-🕘
-🕘
- 
-U+1F558=F0=9F=95=98clock face nine oclock
-🕙
-🕙
-🕙
- 
-U+1F559=F0=9F=95=99clock face ten oclock
-🕚
-🕚
-🕚
- 
-U+1F55A=F0=9F=95=9Aclock face eleven oclock
-🕛
-🕛
-🕛
- 
-U+1F55B=F0=9F=95=9Bclock face twelve oclock
-🗻
-🗻
-🗻
-U+1F5FB=F0=9F=97=BBmount fuji
-🗼
-🗼
-🗼
- 
-U+1F5FC=F0=9F=97=BCtokyo tower
-🗽
-🗽
-🗽
- 
-U+1F5FD=F0=9F=97=BDstatue of liberty
-🗾
-🗾
-🗾
- 
-U+1F5FE=F0=9F=97=BEsilhouette of japan
-🗿
-🗿
-🗿
- 
-U+1F5FF=F0=9F=97=BFmoyai
-Back to top 6a. Additional emoticons ( 1F600 - 1F636 )
-Native [1]Apple [2]Android [3]Android [3]Symbola [4]Twitter [5]Phantom [6]UnicodeBytes (UTF-8)Description
-😀
-😀
-😀
-U+1F600=F0=9F=98=80grinning face
-😇
-😇
-😇
- 
-U+1F607=F0=9F=98=87smiling face with halo
-😈
-😈
-😈
- 
-U+1F608=F0=9F=98=88smiling face with horns
-😎
-😎
-😎
- 
-U+1F60E=F0=9F=98=8Esmiling face with sunglasses
-😐
-😐
-😐
- 
-U+1F610=F0=9F=98=90neutral face
-😑
-😑
-😑
-U+1F611=F0=9F=98=91e=pressionless face
-😕
-😕
-😕
-U+1F615=F0=9F=98=95confused face
-😗
-😗
-😗
-U+1F617=F0=9F=98=97kissing face
-😙
-😙
-😙
-U+1F619=F0=9F=98=99kissing face with smiling eyes
-😛
-😛
-😛
-U+1F61B=F0=9F=98=9Bface with stuck-out tongue
-😟
-😟
-😟
-U+1F61F=F0=9F=98=9Fworried face
-😦
-😦
-😦
-U+1F626=F0=9F=98=A6frowning face with open mouth
-😧
-😧
-😧
-U+1F627=F0=9F=98=A7anguished face
-😬
-😬
-😬
-U+1F62C=F0=9F=98=ACgrimacing face
-😮
-😮
-😮
-U+1F62E=F0=9F=98=AEface with open mouth
-😯
-😯
-😯
-U+1F62F=F0=9F=98=AFhushed face
-😴
-😴
-😴
-U+1F634=F0=9F=98=B4sleeping face
-😶
-😶
-😶
- 
-U+1F636=F0=9F=98=B6face without mouth
-Back to top 6b. Additional transport and map symbols ( 1F681 - 1F6C5 )
-Native [1]Apple [2]Android [3]Android [3]Symbola [4]Twitter [5]Phantom [6]UnicodeBytes (UTF-8)Description
-🚁
-🚁
-🚁
- 
-U+1F681=F0=9F=9A=81helicopter
-🚂
-🚂
-🚂
- 
-U+1F682=F0=9F=9A=82steam locomotive
-🚆
-🚆
-🚆
- 
-U+1F686=F0=9F=9A=86train
-🚈
-🚈
-🚈
- 
-U+1F688=F0=9F=9A=88light rail
-🚊
-🚊
-🚊
- 
-U+1F68A=F0=9F=9A=8Atram
-🚍
-🚍
-🚍
- 
-U+1F68D=F0=9F=9A=8Doncoming bus
-🚎
-🚎
-🚎
- 
-U+1F68E=F0=9F=9A=8Etrolleybus
-🚐
-🚐
-🚐
- 
-U+1F690=F0=9F=9A=90minibus
-🚔
-🚔
-🚔
- 
-U+1F694=F0=9F=9A=94oncoming police car
-🚖
-🚖
-🚖
- 
-U+1F696=F0=9F=9A=96oncoming ta=i
-🚘
-🚘
-🚘
- 
-U+1F698=F0=9F=9A=98oncoming automobile
-🚛
-🚛
-🚛
- 
-U+1F69B=F0=9F=9A=9Barticulated lorry
-🚜
-🚜
-🚜
- 
-U+1F69C=F0=9F=9A=9Ctractor
-🚝
-🚝
-🚝
- 
-U+1F69D=F0=9F=9A=9Dmonorail
-🚞
-🚞
-🚞
- 
-U+1F69E=F0=9F=9A=9Emountain railway
-🚟
-🚟
-🚟
- 
-U+1F69F=F0=9F=9A=9Fsuspension railway
-🚠
-🚠
-🚠
- 
-U+1F6A0=F0=9F=9A=A0mountain cableway
-🚡
-🚡
-🚡
- 
-U+1F6A1=F0=9F=9A=A1aerial tramway
-🚣
-🚣
-🚣
- 
-U+1F6A3=F0=9F=9A=A3rowboat
-🚦
-🚦
-🚦
- 
-U+1F6A6=F0=9F=9A=A6vertical traffic light
-🚮
-🚮
-🚮
- 
-U+1F6AE=F0=9F=9A=AEput litter in its place symbol
-🚯
-🚯
-🚯
- 
-U+1F6AF=F0=9F=9A=AFdo not litter symbol
-🚰
-🚰
-🚰
- 
-U+1F6B0=F0=9F=9A=B0potable water symbol
-🚱
-🚱
-🚱
- 
-U+1F6B1=F0=9F=9A=B1non-potable water symbol
-🚳
-🚳
-🚳
- 
-U+1F6B3=F0=9F=9A=B3no bicycles
-🚴
-🚴
-🚴
- 
-U+1F6B4=F0=9F=9A=B4bicyclist
-🚵
-🚵
-🚵
- 
-U+1F6B5=F0=9F=9A=B5mountain bicyclist
-🚷
-🚷
-🚷
- 
-U+1F6B7=F0=9F=9A=B7no pedestrians
-🚸
-🚸
-🚸
- 
-U+1F6B8=F0=9F=9A=B8children crossing
-🚿
-🚿
-🚿
- 
-U+1F6BF=F0=9F=9A=BFshower
-🛁
-🛁
-🛁
- 
-U+1F6C1=F0=9F=9B=81bathtub
-🛂
-🛂
-🛂
- 
-U+1F6C2=F0=9F=9B=82passport control
-🛃
-🛃
-🛃
- 
-U+1F6C3=F0=9F=9B=83customs
-🛄
-🛄
-🛄
- 
-U+1F6C4=F0=9F=9B=84baggage claim
-🛅
-🛅
-🛅
- 
-U+1F6C5=F0=9F=9B=85left luggage
-Back to top 6c. Other additional symbols ( 1F30D - 1F567 )
-Native [1]Apple [2]Android [3]Android [3]Symbola [4]Twitter [5]Phantom [6]UnicodeBytes (UTF-8)Description
-🌍
-🌍
-🌍
- 
-U+1F30D=F0=9F=8C=8Dearth globe europe-africa
-🌎
-🌎
-🌎
- 
-U+1F30E=F0=9F=8C=8Eearth globe americas
-🌐
-🌐
-🌐
- 
-U+1F310=F0=9F=8C=90globe with meridians
-🌒
-🌒
-🌒
- 
-U+1F312=F0=9F=8C=92wa=ing crescent moon symbol
-🌖
-🌖
-🌖
- 
-U+1F316=F0=9F=8C=96waning gibbous moon symbol
-🌗
-🌗
-🌗
-U+1F317=F0=9F=8C=97last quarter moon symbol
-🌘
-🌘
-🌘
- 
-U+1F318=F0=9F=8C=98waning crescent moon symbol
-🌚
-🌚
-🌚
- 
-U+1F31A=F0=9F=8C=9Anew moon with face
-🌜
-🌜
-🌜
- 
-U+1F31C=F0=9F=8C=9Clast quarter moon with face
-🌝
-🌝
-🌝
- 
-U+1F31D=F0=9F=8C=9Dfull moon with face
-🌞
-🌞
-🌞
- 
-U+1F31E=F0=9F=8C=9Esun with face
-🌲
-🌲
-🌲
- 
-U+1F332=F0=9F=8C=B2evergreen tree
-🌳
-🌳
-🌳
- 
-U+1F333=F0=9F=8C=B3deciduous tree
-🍋
-🍋
-🍋
- 
-U+1F34B=F0=9F=8D=8Blemon
-🍐
-🍐
-🍐
- 
-U+1F350=F0=9F=8D=90pear
-🍼
-🍼
-🍼
- 
-U+1F37C=F0=9F=8D=BCbaby bottle
-🏇
-🏇
-🏇
- 
-U+1F3C7=F0=9F=8F=87horse racing
-🏉
-🏉
-🏉
- 
-U+1F3C9=F0=9F=8F=89rugby football
-🏤
-🏤
-🏤
- 
-U+1F3E4=F0=9F=8F=A4european post office
-🐀
-🐀
-🐀
- 
-U+1F400=F0=9F=90=80rat
-🐁
-🐁
-🐁
- 
-U+1F401=F0=9F=90=81mouse
-🐂
-🐂
-🐂
- 
-U+1F402=F0=9F=90=82o=
-🐃
-🐃
-🐃
- 
-U+1F403=F0=9F=90=83water buffalo
-🐄
-🐄
-🐄
- 
-U+1F404=F0=9F=90=84cow
-🐅
-🐅
-🐅
- 
-U+1F405=F0=9F=90=85tiger
-🐆
-🐆
-🐆
- 
-U+1F406=F0=9F=90=86leopard
-🐇
-🐇
-🐇
- 
-U+1F407=F0=9F=90=87rabbit
-🐈
-🐈
-🐈
- 
-U+1F408=F0=9F=90=88cat
-🐉
-🐉
-🐉
- 
-U+1F409=F0=9F=90=89dragon
-🐊
-🐊
-🐊
- 
-U+1F40A=F0=9F=90=8Acrocodile
-🐋
-🐋
-🐋
- 
-U+1F40B=F0=9F=90=8Bwhale
-🐏
-🐏
-🐏
- 
-U+1F40F=F0=9F=90=8Fram
-🐐
-🐐
-🐐
- 
-U+1F410=F0=9F=90=90goat
-🐓
-🐓
-🐓
- 
-U+1F413=F0=9F=90=93rooster
-🐕
-🐕
-🐕
- 
-U+1F415=F0=9F=90=95dog
-🐖
-🐖
-🐖
- 
-U+1F416=F0=9F=90=96pig
-🐪
-🐪
-🐪
- 
-U+1F42A=F0=9F=90=AAdromedary camel
-👥
-👥
-👥
- 
-U+1F465=F0=9F=91=A5busts in silhouette
-👬
-👬
-👬
-U+1F46C=F0=9F=91=ACtwo men holding hands
-👭
-👭
-👭
-U+1F46D=F0=9F=91=ADtwo women holding hands
-💭
-💭
-💭
- 
-U+1F4AD=F0=9F=92=ADthought balloon
-💶
-💶
-💶
- 
-U+1F4B6=F0=9F=92=B6banknote with euro sign
-💷
-💷
-💷
- 
-U+1F4B7=F0=9F=92=B7banknote with pound sign
-📬
-📬
-📬
- 
-U+1F4EC=F0=9F=93=ACopen mailbo= with raised flag
-📭
-📭
-📭
- 
-U+1F4ED=F0=9F=93=ADopen mailbo= with lowered flag
-📯
-📯
-📯
- 
-U+1F4EF=F0=9F=93=AFpostal horn
-📵
-📵
-📵
- 
-U+1F4F5=F0=9F=93=B5no mobile phones
-🔀
-🔀
-🔀
- 
-U+1F500=F0=9F=94=80twisted rightwards arrows
-🔁
-🔁
-🔁
- 
-U+1F501=F0=9F=94=81clockwise rightwards and leftwards open circle arrows
-🔂
-🔂
-🔂
- 
-U+1F502=F0=9F=94=82clockwise rightwards and leftwards open circle arrows with circled one overlay
-🔄
-🔄
-🔄
- 
-U+1F504=F0=9F=94=84anticlockwise downwards and upwards open circle arrows
-🔅
-🔅
-🔅
- 
-U+1F505=F0=9F=94=85low brightness symbol
-🔆
-🔆
-🔆
- 
-U+1F506=F0=9F=94=86high brightness symbol
-🔇
-🔇
-🔇
- 
-U+1F507=F0=9F=94=87speaker with cancellation stroke
-🔉
-🔉
-🔉
- 
-U+1F509=F0=9F=94=89speaker with one sound wave
-🔕
-🔕
-🔕
- 
-U+1F515=F0=9F=94=95bell with cancellation stroke
-🔬
-🔬
-🔬
- 
-U+1F52C=F0=9F=94=ACmicroscope
-🔭
-🔭
-🔭
- 
-U+1F52D=F0=9F=94=ADtelescope
-🕜
-🕜
-🕜
- 
-U+1F55C=F0=9F=95=9Cclock face one-thirty
-🕝
-🕝
-🕝
- 
-U+1F55D=F0=9F=95=9Dclock face two-thirty
-🕞
-🕞
-🕞
- 
-U+1F55E=F0=9F=95=9Eclock face three-thirty
-🕟
-🕟
-🕟
- 
-U+1F55F=F0=9F=95=9Fclock face four-thirty
-🕠
-🕠
-🕠
- 
-U+1F560=F0=9F=95=A0clock face five-thirty
-🕡
-🕡
-🕡
- 
-U+1F561=F0=9F=95=A1clock face si=-thirty
-🕢
-🕢
-🕢
- 
-U+1F562=F0=9F=95=A2clock face seven-thirty
-🕣
-🕣
-🕣
- 
-U+1F563=F0=9F=95=A3clock face eight-thirty
-🕤
-🕤
-🕤
- 
-U+1F564=F0=9F=95=A4clock face nine-thirty
-🕥
-🕥
-🕥
- 
-U+1F565=F0=9F=95=A5clock face ten-thirty
-🕦
-🕦
-🕦
- 
-U+1F566=F0=9F=95=A6clock face eleven-thirty
-🕧
-🕧
-🕧
- 
-U+1F567=F0=9F=95=A7clock face twelve-thirty
+<p>=F0=9F=98=81</p>,😁
+<p>=F0=9F=98=82</p>,😂
+<p>=F0=9F=98=83</p>,😃
+<p>=F0=9F=98=84</p>,😄
+<p>=F0=9F=98=85</p>,😅
+<p>=F0=9F=98=86</p>,😆
+<p>=F0=9F=98=89</p>,😉
+<p>=F0=9F=98=8A</p>,😊
+<p>=F0=9F=98=8B</p>,😋
+<p>=F0=9F=98=8C</p>,😌
+<p>=F0=9F=98=8D</p>,😍
+<p>=F0=9F=98=8F</p>,😏
+<p>=F0=9F=98=92</p>,😒
+<p>=F0=9F=98=93</p>,😓
+<p>=F0=9F=98=94</p>,😔
+<p>=F0=9F=98=96</p>,😖
+<p>=F0=9F=98=98</p>,😘
+<p>=F0=9F=98=9A</p>,😚
+<p>=F0=9F=98=9C</p>,😜
+<p>=F0=9F=98=9D</p>,😝
+<p>=F0=9F=98=9E</p>,😞
+<p>=F0=9F=98=A0</p>,😠
+<p>=F0=9F=98=A1</p>,😡
+<p>=F0=9F=98=A2</p>,😢
+<p>=F0=9F=98=A3</p>,😣
+<p>=F0=9F=98=A4</p>,😤
+<p>=F0=9F=98=A5</p>,😥
+<p>=F0=9F=98=A8</p>,😨
+<p>=F0=9F=98=A9</p>,😩
+<p>=F0=9F=98=AA</p>,😪
+<p>=F0=9F=98=AB</p>,😫
+<p>=F0=9F=98=AD</p>,😭
+<p>=F0=9F=98=B0</p>,😰
+<p>=F0=9F=98=B1</p>,😱
+<p>=F0=9F=98=B2</p>,😲
+<p>=F0=9F=98=B3</p>,😳
+<p>=F0=9F=98=B5</p>,😵
+<p>=F0=9F=98=B7</p>,😷
+<p>=F0=9F=98=B8</p>,😸
+<p>=F0=9F=98=B9</p>,😹
+<p>=F0=9F=98=BA</p>,😺
+<p>=F0=9F=98=BB</p>,😻
+<p>=F0=9F=98=BC</p>,😼
+<p>=F0=9F=98=BD</p>,😽
+<p>=F0=9F=98=BE</p>,😾
+<p>=F0=9F=98=BF</p>,😿
+<p>=F0=9F=99=80</p>,🙀
+<p>=F0=9F=99=85</p>,🙅
+<p>=F0=9F=99=86</p>,🙆
+<p>=F0=9F=99=87</p>,🙇
+<p>=F0=9F=99=88</p>,🙈
+<p>=F0=9F=99=89</p>,🙉
+<p>=F0=9F=99=8A</p>,🙊
+<p>=F0=9F=99=8B</p>,🙋
+<p>=F0=9F=99=8C</p>,🙌
+<p>=F0=9F=99=8D</p>,🙍
+<p>=F0=9F=99=8E</p>,🙎 
+<p>=F0=9F=99=8F</p>,🙏
+<p>=E2=9C=82</p>,✂
+<p>=E2=9C=85</p>,✅
+<p>=E2=9C=88</p>,✈
+<p>=E2=9C=89</p>,✉
+<p>=E2=9C=8A</p>,✊
+<p>=E2=9C=8B</p>,✋
+<p>=E2=9C=8C</p>,✌
+<p>=E2=9C=8F</p>,✏
+<p>=E2=9C=92</p>,✒
+<p>=E2=9C=94</p>,✔
+<p>=E2=9C=96</p>,✖
+<p>=E2=9C=A8</p>,✨
+<p>=E2=9C=B3</p>,✳
+<p>=E2=9C=B4</p>,✴
+<p>=E2=9D=84</p>,❄
+<p>=E2=9D=87</p>,❇
+<p>=E2=9D=8C</p>,❌
+<p>=E2=9D=8E</p>,❎
+<p>=E2=9D=93</p>,❓
+<p>=E2=9D=94</p>,❔
+<p>=E2=9D=95</p>,❕
+<p>=E2=9D=97</p>,❗
+<p>=E2=9D=A4</p>,❤
+<p>=E2=9E=95</p>,➕
+<p>=E2=9E=96</p>,➖
+<p>=E2=9E=97</p>,➗
+<p>=E2=9E=A1</p>,➡
+<p>=E2=9E=B0</p>,➰
+<p>=F0=9F=9A=80</p>,🚀
+<p>=F0=9F=9A=83</p>,🚃
+<p>=F0=9F=9A=84</p>,🚄
+<p>=F0=9F=9A=85</p>,🚅
+<p>=F0=9F=9A=87</p>,🚇
+<p>=F0=9F=9A=89</p>,🚉
+<p>=F0=9F=9A=8C</p>,🚌
+<p>=F0=9F=9A=8F</p>,🚏
+<p>=F0=9F=9A=91</p>,🚑
+<p>=F0=9F=9A=92</p>,🚒
+<p>=F0=9F=9A=93</p>,🚓
+<p>=F0=9F=9A=95</p>,🚕
+<p>=F0=9F=9A=97</p>,🚗
+<p>=F0=9F=9A=99</p>,🚙
+<p>=F0=9F=9A=9A</p>,🚚
+<p>=F0=9F=9A=A2</p>,🚢
+<p>=F0=9F=9A=A4</p>,🚤
+<p>=F0=9F=9A=A5</p>,🚥
+<p>=F0=9F=9A=A7</p>,🚧
+<p>=F0=9F=9A=A8</p>,🚨
+<p>=F0=9F=9A=A9</p>,🚩
+<p>=F0=9F=9A=AA</p>,🚪
+<p>=F0=9F=9A=AB</p>,🚫
+<p>=F0=9F=9A=AC</p>,🚬
+<p>=F0=9F=9A=AD</p>,🚭
+<p>=F0=9F=9A=B2</p>,🚲
+<p>=F0=9F=9A=B6</p>,🚶
+<p>=F0=9F=9A=B9</p>,🚹
+<p>=F0=9F=9A=BA</p>,🚺
+<p>=F0=9F=9A=BB</p>,🚻
+<p>=F0=9F=9A=BC</p>,🚼
+<p>=F0=9F=9A=BD</p>,🚽
+<p>=F0=9F=9A=BE</p>,🚾
+<p>=F0=9F=9B=80</p>,🛀
+<p>=E2=93=82</p>,Ⓜ
+<p>=F0=9F=85=B0</p>,🅰
+<p>=F0=9F=85=B1</p>,🅱
+<p>=F0=9F=85=BE</p>,🅾
+<p>=F0=9F=85=BF</p>,🅿
+<p>=F0=9F=86=8E</p>,🆎
+<p>=F0=9F=86=91</p>,🆑
+<p>=F0=9F=86=92</p>,🆒
+<p>=F0=9F=86=93</p>,🆓
+<p>=F0=9F=86=94</p>,🆔
+<p>=F0=9F=86=95</p>,🆕
+<p>=F0=9F=86=96</p>,🆖
+<p>=F0=9F=86=97</p>,🆗
+<p>=F0=9F=86=98</p>,🆘
+<p>=F0=9F=86=99</p>,🆙
+<p>=F0=9F=86=9A</p>,🆚
+<p>=E2=8C=9A</p>,⌚
+<p>=E2=8C=9B</p>,⌛
+<p>=E2=8F=A9</p>,⏩
+<p>=E2=8F=AA</p>,⏪
+<p>=E2=8F=AB</p>,⏫
+<p>=E2=8F=AC</p>,⏬
+<p>=E2=8F=B0</p>,⏰
+<p>=E2=8F=B3</p>,⏳
+<p>=E2=9A=BD</p>,⚽
+<p>=E2=9A=BE</p>,⚾
+<p>=E2=9B=84</p>,⛄
+<p>=E2=9B=85</p>,⛅
+<p>=E2=9B=8E</p>,⛎
+<p>=E2=9B=94</p>,⛔
+<p>=E2=9B=AA</p>,⛪
+<p>=E2=9B=B2</p>,⛲
+<p>=E2=9B=B3</p>,⛳
+<p>=E2=9B=B5</p>,⛵
+<p>=E2=9B=BA</p>,⛺
+<p>=E2=9B=BD</p>,⛽
+<p>=E2=A4=B4</p>,⤴
+<p>=E2=A4=B5</p>,⤵
+<p>=E2=AC=85</p>,⬅
+<p>=E2=AC=86</p>,⬆
+<p>=E2=AC=87</p>,⬇
+<p>=E2=AC=9B</p>,⬛
+<p>=E2=AC=9C</p>,⬜
+<p>=E2=AD=90</p>,⭐
+<p>=E2=AD=95</p>,⭕
+<p>=E3=80=B0</p>,〰
+<p>=E3=80=BD</p>,〽
+<p>=E3=8A=97</p>,㊗
+<p>=E3=8A=99</p>,㊙
+<p>=F0=9F=80=84</p>,🀄
+<p>=F0=9F=83=8F</p>,🃏
+<p>=F0=9F=8C=80</p>,🌀
+<p>=F0=9F=8C=81</p>,🌁
+<p>=F0=9F=8C=82</p>,🌂
+<p>=F0=9F=8C=83</p>,🌃
+<p>=F0=9F=8C=84</p>,🌄
+<p>=F0=9F=8C=85</p>,🌅
+<p>=F0=9F=8C=86</p>,🌆
+<p>=F0=9F=8C=87</p>,🌇
+<p>=F0=9F=8C=88</p>,🌈
+<p>=F0=9F=8C=89</p>,🌉
+<p>=F0=9F=8C=8A</p>,🌊
+<p>=F0=9F=8C=8B</p>,🌋
+<p>=F0=9F=8C=8C</p>,🌌
+<p>=F0=9F=8C=8F</p>,🌏
+<p>=F0=9F=8C=91</p>,🌑
+<p>=F0=9F=8C=93</p>,🌓
+<p>=F0=9F=8C=94</p>,🌔
+<p>=F0=9F=8C=95</p>,🌕
+<p>=F0=9F=8C=99</p>,🌙
+<p>=F0=9F=8C=9B</p>,🌛
+<p>=F0=9F=8C=9F</p>,🌟
+<p>=F0=9F=8C=A0</p>,🌠
+<p>=F0=9F=8C=B0</p>,🌰
+<p>=F0=9F=8C=B1</p>,🌱
+<p>=F0=9F=8C=B4</p>,🌴
+<p>=F0=9F=8C=B5</p>,🌵
+<p>=F0=9F=8C=B7</p>,🌷
+<p>=F0=9F=8C=B8</p>,🌸
+<p>=F0=9F=8C=B9</p>,🌹
+<p>=F0=9F=8C=BA</p>,🌺
+<p>=F0=9F=8C=BB</p>,🌻
+<p>=F0=9F=8C=BC</p>,🌼
+<p>=F0=9F=8C=BD</p>,🌽
+<p>=F0=9F=8C=BE</p>,🌾
+<p>=F0=9F=8C=BF</p>,🌿
+<p>=F0=9F=8D=80</p>,🍀
+<p>=F0=9F=8D=81</p>,🍁
+<p>=F0=9F=8D=82</p>,🍂
+<p>=F0=9F=8D=83</p>,🍃
+<p>=F0=9F=8D=84</p>,🍄
+<p>=F0=9F=8D=85</p>,🍅
+<p>=F0=9F=8D=86</p>,🍆
+<p>=F0=9F=8D=87</p>,🍇
+<p>=F0=9F=8D=88</p>,🍈
+<p>=F0=9F=8D=89</p>,🍉
+<p>=F0=9F=8D=8A</p>,🍊
+<p>=F0=9F=8D=8C</p>,🍌
+<p>=F0=9F=8D=8D</p>,🍍
+<p>=F0=9F=8D=8E</p>,🍎
+<p>=F0=9F=8D=8F</p>,🍏
+<p>=F0=9F=8D=91</p>,🍑
+<p>=F0=9F=8D=92</p>,🍒
+<p>=F0=9F=8D=93</p>,🍓
+<p>=F0=9F=8D=94</p>,🍔
+<p>=F0=9F=8D=95</p>,🍕
+<p>=F0=9F=8D=96</p>,🍖
+<p>=F0=9F=8D=97</p>,🍗
+<p>=F0=9F=8D=98</p>,🍘
+<p>=F0=9F=8D=99</p>,🍙
+<p>=F0=9F=8D=9A</p>,🍚
+<p>=F0=9F=8D=9B</p>,🍛
+<p>=F0=9F=8D=9C</p>,🍜
+<p>=F0=9F=8D=9D</p>,🍝
+<p>=F0=9F=8D=9E</p>,🍞
+<p>=F0=9F=8D=9F</p>,🍟
+<p>=F0=9F=8D=A0</p>,🍠
+<p>=F0=9F=8D=A1</p>,🍡
+<p>=F0=9F=8D=A2</p>,🍢
+<p>=F0=9F=8D=A3</p>,🍣
+<p>=F0=9F=8D=A4</p>,🍤
+<p>=F0=9F=8D=A5</p>,🍥
+<p>=F0=9F=8D=A6</p>,🍦
+<p>=F0=9F=8D=A7</p>,🍧
+<p>=F0=9F=8D=A8</p>,🍨
+<p>=F0=9F=8D=A9</p>,🍩
+<p>=F0=9F=8D=AA</p>,🍪
+<p>=F0=9F=8D=AB</p>,🍫
+<p>=F0=9F=8D=AC</p>,🍬
+<p>=F0=9F=8D=AD</p>,🍭
+<p>=F0=9F=8D=AE</p>,🍮
+<p>=F0=9F=8D=AF</p>,🍯
+<p>=F0=9F=8D=B0</p>,🍰
+<p>=F0=9F=8D=B1</p>,🍱
+<p>=F0=9F=8D=B2</p>,🍲
+<p>=F0=9F=8D=B3</p>,🍳
+<p>=F0=9F=8D=B4</p>,🍴
+<p>=F0=9F=8D=B5</p>,🍵
+<p>=F0=9F=8D=B6</p>,🍶
+<p>=F0=9F=8D=B7</p>,🍷
+<p>=F0=9F=8D=B8</p>,🍸
+<p>=F0=9F=8D=B9</p>,🍹
+<p>=F0=9F=8D=BA</p>,🍺
+<p>=F0=9F=8D=BB</p>,🍻
+<p>=F0=9F=8E=80</p>,🎀
+<p>=F0=9F=8E=81</p>,🎁
+<p>=F0=9F=8E=82</p>,🎂
+<p>=F0=9F=8E=83</p>,🎃
+<p>=F0=9F=8E=84</p>,🎄
+<p>=F0=9F=8E=85</p>,🎅
+<p>=F0=9F=8E=86</p>,🎆
+<p>=F0=9F=8E=87</p>,🎇
+<p>=F0=9F=8E=88</p>,🎈
+<p>=F0=9F=8E=89</p>,🎉
+<p>=F0=9F=8E=8A</p>,🎊
+<p>=F0=9F=8E=8B</p>,🎋
+<p>=F0=9F=8E=8C</p>,🎌
+<p>=F0=9F=8E=8D</p>,🎍
+<p>=F0=9F=8E=8E</p>,🎎
+<p>=F0=9F=8E=8F</p>,🎏
+<p>=F0=9F=8E=90</p>,🎐
+<p>=F0=9F=8E=91</p>,🎑
+<p>=F0=9F=8E=92</p>,🎒
+<p>=F0=9F=8E=93</p>,🎓
+<p>=F0=9F=8E=A0</p>,🎠
+<p>=F0=9F=8E=A1</p>,🎡
+<p>=F0=9F=8E=A2</p>,🎢
+<p>=F0=9F=8E=A3</p>,🎣
+<p>=F0=9F=8E=A4</p>,🎤
+<p>=F0=9F=8E=A5</p>,🎥
+<p>=F0=9F=8E=A6</p>,🎦
+<p>=F0=9F=8E=A7</p>,🎧
+<p>=F0=9F=8E=A8</p>,🎨
+<p>=F0=9F=8E=A9</p>,🎩
+<p>=F0=9F=8E=AA</p>,🎪
+<p>=F0=9F=8E=AB</p>,🎫
+<p>=F0=9F=8E=AC</p>,🎬
+<p>=F0=9F=8E=AD</p>,🎭
+<p>=F0=9F=8E=AE</p>,🎮
+<p>=F0=9F=8E=AF</p>,🎯
+<p>=F0=9F=8E=B0</p>,🎰
+<p>=F0=9F=8E=B1</p>,🎱
+<p>=F0=9F=8E=B2</p>,🎲
+<p>=F0=9F=8E=B3</p>,🎳
+<p>=F0=9F=8E=B4</p>,🎴
+<p>=F0=9F=8E=B5</p>,🎵
+<p>=F0=9F=8E=B6</p>,🎶
+<p>=F0=9F=8E=B7</p>,🎷
+<p>=F0=9F=8E=B8</p>,🎸
+<p>=F0=9F=8E=B9</p>,🎹
+<p>=F0=9F=8E=BA</p>,🎺
+<p>=F0=9F=8E=BB</p>,🎻
+<p>=F0=9F=8E=BC</p>,🎼
+<p>=F0=9F=8E=BD</p>,🎽
+<p>=F0=9F=8E=BE</p>,🎾
+<p>=F0=9F=8E=BF</p>,🎿
+<p>=F0=9F=8F=80</p>,🏀
+<p>=F0=9F=8F=81</p>,🏁
+<p>=F0=9F=8F=82</p>,🏂
+<p>=F0=9F=8F=83</p>,🏃
+<p>=F0=9F=8F=84</p>,🏄
+<p>=F0=9F=8F=86</p>,🏆
+<p>=F0=9F=8F=88</p>,🏈
+<p>=F0=9F=8F=8A</p>,🏊
+<p>=F0=9F=8F=A0</p>,🏠
+<p>=F0=9F=8F=A1</p>,🏡
+<p>=F0=9F=8F=A2</p>,🏢
+<p>=F0=9F=8F=A3</p>,🏣
+<p>=F0=9F=8F=A5</p>,🏥
+<p>=F0=9F=8F=A6</p>,🏦
+<p>=F0=9F=8F=A7</p>,🏧
+<p>=F0=9F=8F=A8</p>,🏨
+<p>=F0=9F=8F=A9</p>,🏩
+<p>=F0=9F=8F=AA</p>,🏪
+<p>=F0=9F=8F=AB</p>,🏫
+<p>=F0=9F=8F=AC</p>,🏬
+<p>=F0=9F=8F=AD</p>,🏭
+<p>=F0=9F=8F=AE</p>,🏮
+<p>=F0=9F=8F=AF</p>,🏯
+<p>=F0=9F=8F=B0</p>,🏰
+<p>=F0=9F=90=8C</p>,🐌
+<p>=F0=9F=90=8D</p>,🐍
+<p>=F0=9F=90=8E</p>,🐎
+<p>=F0=9F=90=91</p>,🐑
+<p>=F0=9F=90=92</p>,🐒
+<p>=F0=9F=90=94</p>,🐔
+<p>=F0=9F=90=97</p>,🐗
+<p>=F0=9F=90=98</p>,🐘
+<p>=F0=9F=90=99</p>,🐙
+<p>=F0=9F=90=9A</p>,🐚
+<p>=F0=9F=90=9B</p>,🐛
+<p>=F0=9F=90=9C</p>,🐜
+<p>=F0=9F=90=9D</p>,🐝
+<p>=F0=9F=90=9E</p>,🐞
+<p>=F0=9F=90=9F</p>,🐟
+<p>=F0=9F=90=A0</p>,🐠
+<p>=F0=9F=90=A1</p>,🐡
+<p>=F0=9F=90=A2</p>,🐢
+<p>=F0=9F=90=A3</p>,🐣
+<p>=F0=9F=90=A4</p>,🐤
+<p>=F0=9F=90=A5</p>,🐥
+<p>=F0=9F=90=A6</p>,🐦
+<p>=F0=9F=90=A7</p>,🐧
+<p>=F0=9F=90=A8</p>,🐨
+<p>=F0=9F=90=A9</p>,🐩
+<p>=F0=9F=90=AB</p>,🐫
+<p>=F0=9F=90=AC</p>,🐬
+<p>=F0=9F=90=AD</p>,🐭
+<p>=F0=9F=90=AE</p>,🐮
+<p>=F0=9F=90=AF</p>,🐯
+<p>=F0=9F=90=B0</p>,🐰
+<p>=F0=9F=90=B1</p>,🐱
+<p>=F0=9F=90=B2</p>,🐲
+<p>=F0=9F=90=B3</p>,🐳
+<p>=F0=9F=90=B4</p>,🐴
+<p>=F0=9F=90=B5</p>,🐵
+<p>=F0=9F=90=B6</p>,🐶
+<p>=F0=9F=90=B7</p>,🐷
+<p>=F0=9F=90=B8</p>,🐸
+<p>=F0=9F=90=B9</p>,🐹
+<p>=F0=9F=90=BA</p>,🐺
+<p>=F0=9F=90=BB</p>,🐻
+<p>=F0=9F=90=BC</p>,🐼
+<p>=F0=9F=90=BD</p>,🐽
+<p>=F0=9F=90=BE</p>,🐾
+<p>=F0=9F=91=80</p>,👀
+<p>=F0=9F=91=82</p>,👂
+<p>=F0=9F=91=83</p>,👃
+<p>=F0=9F=91=84</p>,👄
+<p>=F0=9F=91=85</p>,👅
+<p>=F0=9F=91=86</p>,👆
+<p>=F0=9F=91=87</p>,👇
+<p>=F0=9F=91=88</p>,👈
+<p>=F0=9F=91=89</p>,👉
+<p>=F0=9F=91=8A</p>,👊
+<p>=F0=<p>9F=91=8B</p>,👋
+<p>=F0=9F=91=8C</p>,👌
+<p>=F0=9F=91=8D</p>,👍
+<p>=F0=9F=91=8E</p>,👎
+<p>=F0=9F=91=8F</p>,👏
+<p>=F0=9F=91=90</p>,👐
+<p>=F0=9F=91=91</p>,👑
+<p>=F0=9F=91=92</p>,👒
+<p>=F0=9F=91=93</p>,👓
+<p>=F0=9F=91=94</p>,👔
+<p>=F0=9F=91=95</p>,👕
+<p>=F0=9F=91=96</p>,👖
+<p>=F0=9F=91=97</p>,👗
+<p>=F0=9F=91=98</p>,👘
+<p>=F0=9F=91=99</p>,👙
+<p>=F0=9F=91=9A</p>,👚
+<p>=F0=9F=91=9B</p>,👛
+<p>=F0=9F=91=9C</p>,👜
+<p>=F0=9F=91=9D</p>,👝
+<p>=F0=9F=91=9E</p>,👞
+<p>=F0=9F=91=9F</p>,👟
+<p>=F0=9F=91=A0</p>,👠
+<p>=F0=9F=91=A1</p>,👡
+<p>=F0=9F=91=A2</p>,👢
+<p>=F0=9F=91=A3</p>,👣
+<p>=F0=9F=91=A4</p>,👤
+<p>=F0=9F=91=A6</p>,👦
+<p>=F0=9F=91=A7</p>,👧
+<p>=F0=9F=91=A8</p>,👨
+<p>=F0=9F=91=A9</p>,👩
+<p>=F0=9F=91=AA</p>,👪
+<p>=F0=9F=91=AB</p>,👫
+<p>=F0=9F=91=AE</p>,👮
+<p>=F0=9F=91=AF</p>,👯
+<p>=F0=9F=91=B0</p>,👰
+<p>=F0=9F=91=B1</p>,👱
+<p>=F0=9F=91=B2</p>,👲
+<p>=F0=9F=91=B3</p>,👳
+<p>=F0=9F=91=B4</p>,👴
+<p>=F0=9F=91=B5</p>,👵
+<p>=F0=9F=91=B6</p>,👶
+<p>=F0=9F=91=B7</p>,👷
+<p>=F0=9F=91=B8</p>,👸
+<p>=F0=9F=91=B9</p>,👹
+<p>=F0=9F=91=BA</p>,👺
+<p>=F0=9F=91=BB</p>,👻
+<p>=F0=9F=91=BC</p>,👼
+<p>=F0=9F=91=BD</p>,👽
+<p>=F0=9F=91=BE</p>,👾
+<p>=F0=9F=91=BF</p>,👿
+<p>=F0=9F=92=80</p>,💀
+<p>=F0=9F=92=81</p>,💁
+<p>=F0=9F=92=82</p>,💂
+<p>=F0=9F=92=83</p>,💃
+<p>=F0=9F=92=84</p>,💄
+<p>=F0=9F=92=85</p>,💅
+<p>=F0=9F=92=86</p>,💆
+<p>=F0=9F=92=87</p>,💇
+<p>=F0=9F=92=88</p>,💈
+<p>=F0=9F=92=89</p>,💉
+<p>=F0=9F=92=8A</p>,💊
+<p>=F0=9F=92=8B</p>,💋
+<p>=F0=9F=92=8C</p>,💌
+<p>=F0=9F=92=8D</p>,💍
+<p>=F0=9F=92=8E</p>,💎
+<p>=F0=9F=92=8F</p>,💏
+<p>=F0=9F=92=90</p>,💐
+<p>=F0=9F=92=91</p>,💑
+<p>=F0=9F=92=92</p>,💒
+<p>=F0=9F=92=93</p>,💓
+<p>=F0=9F=92=94</p>,💔
+<p>=F0=9F=92=95</p>,💕
+<p>=F0=9F=92=96</p>,💖
+<p>=F0=9F=92=97</p>,💗
+<p>=F0=9F=92=98</p>,💘
+<p>=F0=9F=92=99</p>,💙
+<p>=F0=9F=92=9A</p>,💚
+<p>=F0=9F=92=9B</p>,💛
+<p>=F0=9F=92=9C</p>,💜
+<p>=F0=9F=92=9D</p>,💝
+<p>=F0=9F=92=9E</p>,💞
+<p>=F0=9F=92=9F</p>,💟
+<p>=F0=9F=92=A0</p>,💠
+<p>=F0=9F=92=A1</p>,💡
+<p>=F0=9F=92=A2</p>,💢
+<p>=F0=9F=92=A3</p>,💣
+<p>=F0=9F=92=A4</p>,💤
+<p>=F0=9F=92=A5</p>,💥
+<p>=F0=9F=92=A6</p>,💦
+<p>=F0=9F=92=A7</p>,💧
+<p>=F0=9F=92=A8</p>,💨
+<p>=F0=9F=92=A9</p>,💩
+<p>=F0=9F=92=AA</p>,💪
+<p>=F0=9F=92=AB</p>,💫
+<p>=F0=9F=92=AC</p>,💬
+<p>=F0=9F=92=AE</p>,💮
+<p>=F0=9F=92=AF</p>,💯
+<p>=F0=9F=92=B0</p>,💰
+<p>=F0=9F=92=B1</p>,💱
+<p>=F0=9F=92=B2</p>,💲
+<p>=F0=9F=92=B3</p>,💳
+<p>=F0=9F=92=B4</p>,💴
+<p>=F0=9F=92=B5</p>,💵
+<p>=F0=9F=92=B8</p>,💸
+<p>=F0=9F=92=B9</p>,💹
+<p>=F0=9F=92=BA</p>,💺
+<p>=F0=9F=92=BB</p>,💻
+<p>=F0=9F=92=BC</p>,💼
+<p>=F0=9F=92=BD</p>,💽
+<p>=F0=9F=92=BE</p>,💾
+<p>=F0=9F=92=BF</p>,💿
+<p>=F0=9F=93=80</p>,📀
+<p>=F0=9F=93=81</p>,📁
+<p>=F0=9F=93=82</p>,📂
+<p>=F0=9F=93=83</p>,📃
+<p>=F0=9F=93=84</p>,📄
+<p>=F0=9F=93=85</p>,📅
+<p>=F0=9F=93=86</p>,📆
+<p>=F0=9F=93=87</p>,📇
+<p>=F0=9F=93=88</p>,📈
+<p>=F0=9F=93=89</p>,📉
+<p>=F0=9F=93=8A</p>,📊
+<p>=F0=9F=93=8B</p>,📋
+<p>=F0=9F=93=8C</p>,📌
+<p>=F0=9F=93=8D</p>,📍
+<p>=F0=9F=93=8E</p>,📎
+<p>=F0=9F=93=8F</p>,📏
+<p>=F0=9F=93=90</p>,📐
+<p>=F0=9F=93=91</p>,📑
+<p>=F0=9F=93=92</p>,📒
+<p>=F0=9F=93=93</p>,📓
+<p>=F0=9F=93=94</p>,📔
+<p>=F0=9F=93=95</p>,📕
+<p>=F0=9F=93=96</p>,📖
+<p>=F0=9F=93=97</p>,📗
+<p>=F0=9F=93=98</p>,📘
+<p>=F0=9F=93=99</p>,📙
+<p>=F0=9F=93=9A</p>,📚
+<p>=F0=9F=93=9B</p>,📛
+<p>=F0=9F=93=9C</p>,📜
+<p>=F0=9F=93=9D</p>,📝
+<p>=F0=9F=93=9E</p>,📞
+<p>=F0=9F=93=9F</p>,📟
+<p>=F0=9F=93=A0</p>,📠
+<p>=F0=9F=93=A1</p>,📡
+<p>=F0=9F=93=A2</p>,📢
+<p>=F0=9F=93=A3</p>,📣
+<p>=F0=9F=93=A4</p>,📤
+<p>=F0=9F=93=A5</p>,📥
+<p>=F0=9F=93=A6</p>,📦
+<p>=F0=9F=93=A7</p>,📧
+<p>=F0=9F=93=A8</p>,📨
+<p>=F0=9F=93=A9</p>,📩
+<p>=F0=9F=93=AA</p>,📪
+<p>=F0=9F=93=AB</p>,📫
+<p>=F0=9F=93=AE</p>,📮
+<p>=F0=9F=93=B0</p>,📰
+<p>=F0=9F=93=B1</p>,📱
+<p>=F0=9F=93=B2</p>,📲
+<p>=F0=9F=93=B3</p>,📳
+<p>=F0=9F=93=B4</p>,📴
+<p>=F0=9F=93=B6</p>,📶
+<p>=F0=9F=93=B7</p>,📷
+<p>=F0=9F=93=B9</p>,📹
+<p>=F0=9F=93=BA</p>,📺
+<p>=F0=9F=93=BB</p>,📻
+<p>=F0=9F=93=BC</p>,📼
+<p>=F0=9F=94=83</p>,🔃
+<p>=F0=9F=94=8A</p>,🔊
+<p>=F0=9F=94=8B</p>,🔋
+<p>=F0=9F=94=8C</p>,🔌
+<p>=F0=9F=94=8D</p>,🔍
+<p>=F0=9F=94=8E</p>,🔎
+<p>=F0=9F=94=8F</p>,🔏
+<p>=F0=9F=94=90</p>,🔐
+<p>=F0=9F=94=91</p>,🔑
+<p>=F0=9F=94=92</p>,🔒
+<p>=F0=9F=94=93</p>,🔓
+<p>=F0=9F=94=94</p>,🔔
+<p>=F0=9F=94=96</p>,🔖
+<p>=F0=9F=94=97</p>,🔗
+<p>=F0=9F=94=9E</p>,🔞
+<p>=F0=9F=94=9F</p>,🔟
+<p>=F0=9F=94=A0</p>,🔠
+<p>=F0=9F=94=A1</p>,🔡
+<p>=F0=9F=94=A2</p>,🔢
+<p>=F0=9F=94=A3</p>,🔣
+<p>=F0=9F=94=A4</p>,🔤
+<p>=F0=9F=94=A5</p>,🔥
+<p>=F0=9F=94=A6</p>,🔦
+<p>=F0=9F=94=A7</p>,🔧
+<p>=F0=9F=94=A8</p>,🔨
+<p>=F0=9F=94=A9</p>,🔩
+<p>=F0=9F=94=AA</p>,🔪
+<p>=F0=9F=94=AB</p>,🔫
+<p>=F0=9F=94=AE</p>,🔮
+<p>=F0=9F=94=AF</p>,🔯
+<p>=F0=9F=97=BB</p>,🗻
+<p>=F0=9F=97=BC</p>,🗼
+<p>=F0=9F=97=BD</p>,🗽
+<p>=F0=9F=97=BE</p>,🗾
+<p>=F0=9F=97=BF</p>,🗿
+<p>=F0=9F=98=80</p>,😀 
+<p>=F0=9F=98=87</p>,😇
+<p>=F0=9F=98=88</p>,😈
+<p>=F0=9F=98=8E</p>,😎
+<p>=F0=9F=98=90</p>,😐
+<p>=F0=9F=98=91</p>,😑 
+<p>=F0=9F=98=95</p>,😕
+<p>=F0=9F=98=97</p>,😗 
+<p>=F0=9F=98=99</p>,😙
+<p>=F0=9F=98=9B</p>,😛
+<p>=F0=9F=98=9F</p>,😟
+<p>=F0=9F=98=A6</p>,😦
+<p>=F0=9F=98=A7</p>,😧 
+<p>=F0=9F=98=AC</p>,😬 
+<p>=F0=9F=98=AE</p>,😮
+<p>=F0=9F=98=AF</p>,😯 
+<p>=F0=9F=98=B4</p>,😴
+<p>=F0=9F=98=B6</p>,😶
+<p>=F0=9F=9A=81</p>,🚁
+<p>=F0=9F=9A=82</p>,🚂
+<p>=F0=9F=9A=86</p>,🚆
+<p>=F0=9F=9A=88</p>,🚈
+<p>=F0=9F=9A=8A</p>,🚊
+<p>=F0=9F=9A=8D</p>,🚍
+<p>=F0=9F=9A=8E</p>,🚎
+<p>=F0=9F=9A=90</p>,🚐
+<p>=F0=9F=9A=94</p>,🚔
+<p>=F0=9F=9A=96</p>,🚖
+<p>=F0=9F=9A=98</p>,🚘
+<p>=F0=9F=9A=9B</p>,🚛
+<p>=F0=9F=9A=9C</p>,🚜
+<p>=F0=9F=9A=9D</p>,🚝
+<p>=F0=9F=9A=9E</p>,🚞
+<p>=F0=9F=9A=9F</p>,🚟
+<p>=F0=9F=9A=A0</p>,🚠
+<p>=F0=9F=9A=A1</p>,🚡
+<p>=F0=9F=9A=A3</p>,🚣
+<p>=F0=9F=9A=A6</p>,🚦
+<p>=F0=9F=9A=AE</p>,🚮
+<p>=F0=9F=9A=AF</p>,🚯
+<p>=F0=9F=9A=B0</p>,🚰
+<p>=F0=9F=9A=B1</p>,🚱
+<p>=F0=9F=9A=B3</p>,🚳
+<p>=F0=9F=9A=B4</p>,🚴
+<p>=F0=9F=9A=B5</p>,🚵
+<p>=F0=9F=9A=B7</p>,🚷
+<p>=F0=9F=9A=B8</p>,🚸
+<p>=F0=9F=9A=BF</p>,🚿
+<p>=F0=9F=9B=81</p>,🛁
+<p>=F0=9F=8C=8D</p>,🌍
+<p>=F0=9F=8C=8E</p>,🌎
+<p>=F0=9F=8C=90</p>,🌐
+<p>=F0=9F=8C=92</p>,🌒
+<p>=F0=9F=8C=96</p>,🌖
+<p>=F0=9F=8C=97</p>,🌗
+<p>=F0=9F=8C=98</p>,🌘
+<p>=F0=9F=8C=9A</p>,🌚 
+<p>=F0=9F=8C=9C</p>,🌜
+<p>=F0=9F=8C=9D</p>,🌝
+<p>=F0=9F=8C=9E</p>,🌞
+<p>=F0=9F=8C=B2</p>,🌲
+<p>=F0=9F=8C=B3</p>,🌳
+<p>=F0=9F=8D=8B</p>,🍋
+<p>=F0=9F=8D=90</p>,🍐
+<p>=F0=9F=8D=BC</p>,🍼
+<p>=F0=9F=8F=87</p>,🏇
+<p>=F0=9F=8F=89</p>,🏉
+<p>=F0=9F=8F=A4</p>,🏤
+<p>=F0=9F=90=80</p>,🐀
+<p>=F0=9F=90=81</p>,🐁
+<p>=F0=9F=90=82</p>,🐂
+<p>=F0=9F=90=83</p>,🐃
+<p>=F0=9F=90=84</p>,🐄
+<p>=F0=9F=90=85</p>,🐅
+<p>=F0=9F=90=86</p>,🐆
+<p>=F0=9F=90=87</p>,🐇
+<p>=F0=9F=90=88</p>,🐈
+<p>=F0=9F=90=89</p>,🐉
+<p>=F0=9F=90=8A</p>,🐊
+<p>=F0=9F=90=8B</p>,🐋
+<p>=F0=9F=90=8F</p>,🐏
+<p>=F0=9F=90=90</p>,🐐
+<p>=F0=9F=90=93</p>,🐓
+<p>=F0=9F=90=95</p>,🐕
+<p>=F0=9F=90=96</p>,🐖
+<p>=F0=9F=90=AA</p>,🐪
+<p>=F0=9F=91=A5</p>,👥
+<p>=F0=9F=91=AC</p>,👬
+<p>=F0=9F=91=AD</p>,👭
+<p>=F0=9F=92=AD</p>,💭
+<p>=F0=9F=92=B6</p>,💶
+<p>=F0=9F=92=B7</p>,💷
+<p>=F0=9F=93=AC</p>,📬
+<p>=F0=9F=93=AD</p>,📭
+<p>=F0=9F=93=AF</p>,📯
+<p>=F0=9F=93=B5</p>,📵
+<p>=F0=9F=94=80</p>,🔀
+<p>=F0=9F=94=81</p>,🔁
+<p>=F0=9F=94=82</p>,🔂
+<p>=F0=9F=94=84</p>,🔄
+<p>=F0=9F=94=85</p>,🔅
+<p>=F0=9F=94=86</p>,🔆
+<p>=F0=9F=94=87</p>,🔇
+<p>=F0=9F=94=89</p>,🔉
+<p>=F0=9F=94=95</p>,🔕
+<p>=F0=9F=94=AC</p>,🔬
+<p>=F0=9F=94=AD</p>,🔭
