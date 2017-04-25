@@ -1,6 +1,8 @@
 # emoji_vote
 Vote on your favorite emoji using Venmo
 
+Run file: emoji_test.ipynb
+
 What you need to use this program:
 - A Venmo account
 - A Gmail account
@@ -11,9 +13,6 @@ What you need to use this program:
 Make sure the gmail you are using for this project is the email assigned to that Venmo account.
 
 ## Set Up Gmail
-
-When program prompts for Gmail address, type in email.
-When program prompts for Gmail password, type in email password.
 
 Enable Access for Less Secure Apps:
 - Click "My Account":
@@ -27,6 +26,9 @@ Enable Access for Less Secure Apps:
 - Skip down to where it says "Disable Access for Less Secure Apps" and turn it on:
 
 <img width="661" alt="disable access for less secure apps on" src="https://cloud.githubusercontent.com/assets/25387083/25189704/f0de54fe-24f7-11e7-8bd6-de60c8d17123.png">
+
+When program prompts for Gmail address, type in email.
+When program prompts for Gmail password, type in email password.
 
 ## Set Up Plot.ly
 
@@ -52,6 +54,6 @@ When program prompts for Plotly password, type in plotly password.
 
 ## Running the Program
 
-After responding to the gmail login and plotly login, the plot.ly graph should appear (looks best in full-size).
+After responding to the gmail and plotly login, the plot.ly graph should appear (looks best in full-size).
 
 Good luck fundraising/ voting! Let me know if you have any issues!
