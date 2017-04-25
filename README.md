@@ -12,12 +12,8 @@ Make sure the gmail you are using for this project is the email assigned to that
 
 ## Set Up Gmail
 
-Email:
-Add the email that is assigned to the Venmo account on line 23:
-```
-#GMAIL API                            
-EMAIL_ACCOUNT = "emoji.test.omkisker@gmail.com"
-```
+When program prompts for Gmail address, type in email.
+When program prompts for Gmail password, type in email password.
 
 Enable Access for Less Secure Apps:
 - Click "My Account":
@@ -50,13 +46,12 @@ API Key:
 
 <img width="599" alt="regenerate key" src="https://cloud.githubusercontent.com/assets/25387083/25190125/4a3af740-24f9-11e7-9a18-a22906cdf196.png">
 
-Replace both the Username and API Key to yours on line 13:
-```
-plotly.tools.set_credentials_file(username='contactsyracuse', api_key='yPvHRVgh2zfvGgAfpI3c')
-```
+When program prompts for Plotly username, type in plotly username. 
+When program prompts for Plotly password, type in plotly password. 
+
 
 ## Running the Program
 
-When you run the program, it will ask for the Gmail password. Type it in and the plot.ly graph should appear (looks best in full-size).
+After responding to the gmail login and plotly login, the plot.ly graph should appear (looks best in full-size).
 
 Good luck fundraising/ voting! Let me know if you have any issues!
