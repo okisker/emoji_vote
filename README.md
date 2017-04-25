@@ -28,6 +28,7 @@ Enable Access for Less Secure Apps:
 <img width="661" alt="disable access for less secure apps on" src="https://cloud.githubusercontent.com/assets/25387083/25189704/f0de54fe-24f7-11e7-8bd6-de60c8d17123.png">
 
 When program prompts for Gmail address, type in email.
+
 When program prompts for Gmail password, type in email password.
 
 ## Set Up Plot.ly
@@ -48,7 +49,8 @@ API Key:
 
 <img width="599" alt="regenerate key" src="https://cloud.githubusercontent.com/assets/25387083/25190125/4a3af740-24f9-11e7-9a18-a22906cdf196.png">
 
-When program prompts for Plotly username, type in plotly username. 
+When program prompts for Plotly username, type in plotly username.
+ 
 When program prompts for Plotly password, type in plotly password. 
 
 
