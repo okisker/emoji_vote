@@ -1,7 +1,8 @@
 # emoji_vote
 Vote on your favorite emoji using Venmo
 
-Run file: emoji_test.ipynb
+Run file: emoji_test.py
+May need to pip install any module in "import" section like plotly.
 
 What you need to use this program:
 - A Venmo account
